@@ -65,7 +65,19 @@ ChainSub: class 0 0 'ccmp' 4 4 4 2
  1
   SeqLookup: 0 'sd01'
 EndFPST
-GenTags: 2 sb's001' sb'sd01'
+ChainSub: class 1 7 'ccmp' 3 0 3 1
+  Class: 9 afii57682
+  Class: 117 afii57799 afii57801 afii57800 afii57802 afii57793 afii57794 afii57795 afii57798 afii57797 afii57796 afii57839 uni05C7
+  FClass: 9 afii57682
+  FClass: 117 afii57799 afii57801 afii57800 afii57802 afii57793 afii57794 afii57795 afii57798 afii57797 afii57796 afii57839 uni05C7
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 'hs01'
+EndFPST
+GenTags: 3 sb's001' sb'sd01' sb'hs01'
 TtfTable: prep 1387
 \,q1Gs5*_Wh%9bE('E=F3X+:;"55d<fjk3;]*$[a"4eLqeJSJ=rWCXK"4I/NdJa6prWCKl%L(2X
 "3qAYbK>5:bPhUdI07U4N!7?&"3J=]aN%EeaG^5BJ-<p4-3_Fm"33Y0`[1f,rWC+8"2k*?_YOAN
@@ -27377,6 +27389,7 @@ Fore
  278.375 1120 l 1,16,-1
  292.548 164 l 1,0,-1
 EndSplineSet
+Substitution: 1 65534 'hs01' uniFB20
 EndChar
 StartChar: afii57683
 Encoding: 1507 1507 1507
