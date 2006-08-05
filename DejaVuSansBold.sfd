@@ -141,7 +141,7 @@ UnicodeInterp: none
 AntiAlias: 1
 FitToEm: 1
 AnchorClass: "above" mark 0 0 1 0 "below" mark 0 0 3 0 "rtl-above" mark 1 8 4 0 "rtl-inside" mark 1 8 8 0 "rtl-below" mark 1 8 9 0 "above-mark" mkmk 0 0 2 1 "rtl-above-mark" mkmk 1 4 6 1 "rtl-below-mark" mkmk 1 4 7 1 
-BeginChars: 65622 3899
+BeginChars: 65622 3898
 StartChar: .notdef
 Encoding: 0 -1 0
 AltUni: 0
@@ -79605,6 +79605,7 @@ Encoding: 64298 64298 64298
 Width: 1973
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-below" 923 0 basechar 0
 AnchorPoint: "rtl-inside" 1308 884 basechar 0
 Refer: 1513 1513 N 1 0 0 1 0 0 2
 Refer: 1473 1473 N 1 0 0 1 0 0 2
@@ -79616,6 +79617,7 @@ Encoding: 64299 64299 64299
 Width: 1973
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-below" 923 0 basechar 0
 AnchorPoint: "rtl-inside" 1308 884 basechar 0
 Refer: 1513 1513 N 1 0 0 1 0 0 2
 Refer: 1474 1474 N 1 0 0 1 0 0 2
@@ -79627,6 +79629,7 @@ Encoding: 64300 64300 64300
 Width: 1973
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-below" 923 0 basechar 0
 Refer: 64329 64329 N 1 0 0 1 0 0 2
 Refer: 1473 1473 N 1 0 0 1 0 0 2
 Ligature: 1 7 'ccmp' uniFB49 afii57804
@@ -79637,6 +79640,7 @@ Encoding: 64301 64301 64301
 Width: 1973
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-below" 923 0 basechar 0
 Refer: 64329 64329 N 1 0 0 1 0 0 2
 Refer: 1474 1474 N 1 0 0 1 0 0 2
 Ligature: 1 7 'ccmp' uniFB49 afii57803
