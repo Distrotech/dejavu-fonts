@@ -136,7 +136,7 @@ AntiAlias: 1
 FitToEm: 1
 TeXData: 1 0 0 333312 166656 111104 573440 -1048576 111104 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass: "above" mark 0 0 1 0 "below" mark 0 0 3 0 "rtl-above" mark 1 8 4 0 "rtl-inside" mark 1 8 5 0 "rtl-below" mark 1 8 8 0 "above-mark" mkmk 0 0 2 1 "below-mark" mkmk 0 0 9 1 "rtl-above-mark" mkmk 1 4 6 1 "rtl-below-mark" mkmk 1 4 7 1 
-BeginChars: 65623 4783
+BeginChars: 65623 4773
 StartChar: .notdef
 Encoding: 0 -1 0
 AltUni: 0
@@ -33158,12 +33158,6 @@ Width: 2048
 TeX: 117 0 0 0
 Colour: ff00
 EndChar
-StartChar: uni1400
-Encoding: 5120 5120 5120
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
 StartChar: uni1401
 Encoding: 5121 5121 5121
 Width: 1401
@@ -38314,60 +38308,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5526 5526 N 1 0 0 1 0 0 2
 Refer: 5265 5265 N 1 0 0 1 2056 0 2
-EndChar
-StartChar: uni1677
-Encoding: 5751 5751 5751
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni1678
-Encoding: 5752 5752 5752
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni1679
-Encoding: 5753 5753 5753
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167A
-Encoding: 5754 5754 5754
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167B
-Encoding: 5755 5755 5755
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167C
-Encoding: 5756 5756 5756
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167D
-Encoding: 5757 5757 5757
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167E
-Encoding: 5758 5758 5758
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
-EndChar
-StartChar: uni167F
-Encoding: 5759 5759 5759
-Width: 2048
-TeX: 0 0 0 0
-Colour: ffff00
 EndChar
 StartChar: uni16A0
 Encoding: 5792 5792 5792
