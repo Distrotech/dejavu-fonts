@@ -34475,9 +34475,21 @@ Colour: ffff00
 EndChar
 StartChar: uni1526
 Encoding: 5414 5414 5414
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+854 1493 m 9,0,0
+ 1240 1493 l 25,0,0
+ 574 797 l 9,13,14
+ 1417 797 l 9,12,-1
+ 1417 0 l 17,10,-1
+ 1032 0 l 1,9,-1
+ 1032 518 l 1,8,-1
+ 188 518 l 17,7,-1
+ 188 797 l 1,0,0
+ 854 1493 l 9,0,0
+EndSplineSet
 EndChar
 StartChar: uni1527
 Encoding: 5415 5415 5415
@@ -34487,27 +34499,55 @@ Colour: ffff00
 EndChar
 StartChar: uni1528
 Encoding: 5416 5416 5416
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+751 1493 m 17,0,0
+ 1417 797 l 1,0,0
+ 1417 518 l 9,7,-1
+ 573 518 l 1,8,-1
+ 573 0 l 1,9,-1
+ 188 0 l 9,10,-1
+ 188 797 l 17,12,-1
+ 1031 797 l 17,13,14
+ 365 1493 l 25,0,0
+ 751 1493 l 17,0,0
+EndSplineSet
 EndChar
 StartChar: uni1529
 Encoding: 5417 5417 5417
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 65545 -1 N 1 0 0 1 1054 374 2
+Refer: 5416 5416 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni152A
 Encoding: 5418 5418 5418
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+854 0 m 17,0,0
+ 188 696 l 1,0,0
+ 188 975 l 9,7,-1
+ 1032 975 l 1,8,-1
+ 1032 1493 l 1,9,-1
+ 1417 1493 l 9,10,-1
+ 1417 696 l 17,12,-1
+ 574 696 l 17,13,14
+ 1240 0 l 25,0,0
+ 854 0 l 17,0,0
+EndSplineSet
 EndChar
 StartChar: uni152B
 Encoding: 5419 5419 5419
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 65545 -1 N 1 0 0 1 1732 374 2
+Refer: 5418 5418 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni152C
 Encoding: 5420 5420 5420
@@ -34517,15 +34557,29 @@ Colour: ffff00
 EndChar
 StartChar: uni152D
 Encoding: 5421 5421 5421
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+751 0 m 9,0,0
+ 365 0 l 25,0,0
+ 1031 696 l 9,13,14
+ 188 696 l 9,12,-1
+ 188 1493 l 17,10,-1
+ 573 1493 l 1,9,-1
+ 573 975 l 1,8,-1
+ 1417 975 l 17,7,-1
+ 1417 696 l 1,0,0
+ 751 0 l 9,0,0
+EndSplineSet
 EndChar
 StartChar: uni152E
 Encoding: 5422 5422 5422
-Width: 2048
+Width: 1501
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 65545 -1 N 1 0 0 1 872 374 2
+Refer: 5421 5421 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni152F
 Encoding: 5423 5423 5423
