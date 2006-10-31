@@ -32797,8 +32797,7 @@ Colour: ff00
 EndChar
 StartChar: uni13A7
 Encoding: 5031 5031 5031
-Width: 16
-Flags: W
+Width: 2048
 TeX: 117 0 0 0
 Colour: ff00
 EndChar
