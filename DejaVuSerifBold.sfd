@@ -42,21 +42,21 @@ ScriptLang: 4
  1 cyrl 1 SRB  
  1 latn 1 dflt 
 ChainSub: class 0 0 'ccmp' 4 4 4 2
-  Class: 3 i j
-  Class: 181 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E
+  Class: 71 i j iogonek uni0268 uni029D uni03F3 afii10103 afii10105 uni1E2D uni1ECB
+  Class: 211 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0343
   Class: 1047 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z f h l Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
-  BClass: 3 i j
-  BClass: 181 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E
+  BClass: 71 i j iogonek uni0268 uni029D uni03F3 afii10103 afii10105 uni1E2D uni1ECB
+  BClass: 211 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0343
   BClass: 1047 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z f h l Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
-  FClass: 3 i j
-  FClass: 181 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E
+  FClass: 71 i j iogonek uni0268 uni029D uni03F3 afii10103 afii10105 uni1E2D uni1ECB
+  FClass: 211 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0343
   FClass: 1047 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z f h l Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
  1 0 1
   ClsList: 1
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 's001'
+  SeqLookup: 0 'DTLS'
  1 1 0
   ClsList: 2
   BClsList: 3
@@ -64,7 +64,7 @@ ChainSub: class 0 0 'ccmp' 4 4 4 2
  1
   SeqLookup: 0 'sd01'
 EndFPST
-GenTags: 2 sb's001' sb'sd01'
+GenTags: 2 sb'DTLS' sb'sd01'
 TtfTable: prep 1407
 \,q1GjNmf-c:\8arWC@O"3D#Ta>*k<]*$'b"3(*=`0LMBrWC"9"2MZA"i,Ng^IJC?0E]":"2#!D
 ]D_oDrWB_1"1SjD[L*,E'a(fi"1&=:ZTnZ!Yo3eN)?[4I)?m>d"0WUFY+H.,Xu?HbT+(t++Tnf)
@@ -115,7 +115,7 @@ UnicodeInterp: none
 AntiAlias: 1
 FitToEm: 1
 AnchorClass: "above" mark 0 0 1 0 "below" mark 0 0 3 0 "above-mark" mkmk 0 0 2 1 
-BeginChars: 65549 0
+BeginChars: 65555 0
 StartChar: .notdef
 Encoding: 0 -1 0
 AltUni: 0
@@ -2554,7 +2554,7 @@ Fore
  575 1063 l 1,21,-1
  575 121 l 1,12,-1
 EndSplineSet
-Substitution: 0 65534 's001' dotlessi
+Substitution: 0 65534 'DTLS' dotlessi
 EndChar
 StartChar: j
 Encoding: 106 106 106
@@ -2593,7 +2593,7 @@ Fore
  219 -248 219 -248 219 -125 c 2,30,-1
  219 942 l 1,12,-1
 EndSplineSet
-Substitution: 0 65534 's001' dotlessj
+Substitution: 0 65534 'DTLS' dotlessj
 EndChar
 StartChar: k
 Encoding: 107 107 107
@@ -5768,7 +5768,8 @@ Encoding: 303 303 303
 Width: 778
 Flags: W
 Refer: 105 105 N 1 0 0 1 0 0 3
-Refer: 731 731 N 1 0 0 1 6 0.000455856 2
+Refer: 731 731 N 1 0 0 1 6 0 2
+Substitution: 0 65534 'DTLS' iogonek.dotless
 EndChar
 StartChar: Idotaccent
 Encoding: 304 304 304
@@ -11454,36 +11455,9 @@ Width: 778
 Flags: W
 AnchorPoint: "above" 381 1585 basechar 0
 AnchorPoint: "below" 381 0 basechar 0
-Fore
-575 121 m 1,0,-1
- 727 121 l 1,1,-1
- 727 0 l 1,2,-1
- 70 0 l 1,3,-1
- 70 121 l 1,4,-1
- 221 121 l 1,5,-1
- 221 479 l 1,6,-1
- 70 479 l 1,7,-1
- 70 600 l 1,8,-1
- 221 600 l 1,9,-1
- 221 942 l 1,10,-1
- 70 942 l 1,11,-1
- 70 1063 l 1,12,-1
- 575 1063 l 1,13,-1
- 575 600 l 1,14,-1
- 727 600 l 1,15,-1
- 727 479 l 1,16,-1
- 575 479 l 1,17,-1
- 575 121 l 1,0,-1
-188 1364 m 0,18,19
- 188 1445 188 1445 244 1500.5 c 0,20,21
- 300 1556 300 1556 381 1556 c 0,22,23
- 460 1556 460 1556 515.5 1500.5 c 0,24,25
- 571 1445 571 1445 571 1364 c 0,26,27
- 571 1285 571 1285 515.5 1229.5 c 0,28,29
- 460 1174 460 1174 381 1174 c 0,30,31
- 300 1174 300 1174 244 1229 c 0,32,33
- 188 1284 188 1284 188 1364 c 0,18,19
-EndSplineSet
+Refer: 65551 -1 N 1 0 0 1 0 0 2
+Refer: 65550 -1 N 1 0 0 1 0 0 2
+Substitution: 0 65534 'DTLS' uni0268.dotless
 EndChar
 StartChar: uni0269
 Encoding: 617 617 617
@@ -13361,42 +13335,9 @@ Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "above" 371 1585 basechar 0
 AnchorPoint: "below" 219 -430 basechar 0
-Fore
-223 1364 m 0,0,1
- 223 1445 223 1445 278.5 1500.5 c 0,2,3
- 334 1556 334 1556 416 1556 c 0,4,5
- 494 1556 494 1556 550 1500 c 0,6,7
- 606 1444 606 1444 606 1364 c 0,8,9
- 606 1285 606 1285 550.5 1229.5 c 0,10,11
- 495 1174 495 1174 416 1174 c 0,12,13
- 335 1174 335 1174 279 1229 c 0,14,15
- 223 1284 223 1284 223 1364 c 0,0,1
-598.66 -243.928 m 1,16,17
- 570.738 -320.752 570.738 -320.752 502.5 -371.5 c 0,18,19
- 387.442 -457.007 387.442 -457.007 261 -456 c 0,20,21
- -87 -453.228 -87 -453.228 -87 -231 c 0,22,23
- -87 -33.8545 -87 -33.8545 166.661 -31.04 c 0,24,25
- 170.6 -30.9971 170.6 -30.9971 174.6 -31 c 0,26,27
- 220.844 -31.0361 220.844 -31.0361 264 -33.9668 c 1,28,-1
- 264 942 l 1,29,-1
- 113 942 l 1,30,-1
- 113 1063 l 1,31,-1
- 618 1063 l 1,32,-1
- 618 -125 l 2,33,34
- 618 -129.497 618 -129.497 617.909 -133.935 c 1,35,36
- 714.423 -189.6 714.423 -189.6 751 -253 c 0,37,38
- 798 -334.467 798 -334.467 798 -423 c 1,39,-1
- 688 -423 l 1,40,41
- 676 -344 676 -344 648 -300 c 0,42,43
- 628.029 -268.617 628.029 -268.617 598.66 -243.928 c 1,16,17
-264 -122.743 m 1,44,45
- 245.84 -121.145 245.84 -121.145 228.6 -121 c 0,46,47
- 45 -119.454 45 -119.454 45 -246 c 0,48,49
- 45 -334.241 45 -334.241 177 -327 c 0,50,51
- 206.031 -324.81 206.031 -324.81 235 -297 c 0,52,53
- 264 -269.16 264 -269.16 264 -125 c 2,54,-1
- 264 -122.743 l 1,44,45
-EndSplineSet
+Refer: 65551 -1 N 1 0 0 1 35 0 2
+Refer: 65552 -1 N 1 0 0 1 0 0 2
+Substitution: 0 65534 'DTLS' uni029D.dotless
 EndChar
 StartChar: uni029E
 Encoding: 670 670 670
@@ -16286,6 +16227,12 @@ TeX: 0 0 0 0
 AnchorPoint: "above" -512 1133 mark 0
 Refer: 787 787 N 1 0 0 1 0 0 2
 EndChar
+StartChar: uni034F
+Encoding: 847 847 847
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
 StartChar: uni0358
 Encoding: 856 856 856
 Width: 0
@@ -18373,33 +18320,8 @@ Encoding: 1011 1011 1011
 Width: 741
 Flags: W
 TeX: 0 0 0 0
-Fore
-178 1364 m 0,0,1
- 178 1445 178 1445 233.5 1500.5 c 128,-1,2
- 289 1556 289 1556 371 1556 c 0,3,4
- 449 1556 449 1556 505 1500 c 128,-1,5
- 561 1444 561 1444 561 1364 c 0,6,7
- 561 1285 561 1285 505.5 1229.5 c 128,-1,8
- 450 1174 450 1174 371 1174 c 0,9,10
- 290 1174 290 1174 234 1229 c 128,-1,11
- 178 1284 178 1284 178 1364 c 0,0,1
-219 942 m 1,12,-1
- 68 942 l 1,13,-1
- 68 1063 l 1,14,-1
- 573 1063 l 1,15,-1
- 573 -125 l 2,16,17
- 573 -288 573 -288 457.5 -371.5 c 128,-1,18
- 342 -455 342 -455 117 -455 c 0,19,20
- 57 -455 57 -455 -11 -445 c 128,-1,21
- -79 -435 -79 -435 -152 -416 c 1,22,-1
- -152 -190 l 1,23,-1
- -39 -191 l 1,24,25
- -37 -271 -37 -271 -7.5 -306.5 c 128,-1,26
- 22 -342 22 -342 88 -342 c 0,27,28
- 161 -342 161 -342 190 -295 c 128,-1,29
- 219 -248 219 -248 219 -125 c 2,30,-1
- 219 942 l 1,12,-1
-EndSplineSet
+Refer: 106 106 N 1 0 0 1 0 0 2
+Substitution: 0 65534 'DTLS' dotlessj
 EndChar
 StartChar: uni03F4
 Encoding: 1012 1012 1012
@@ -20890,6 +20812,7 @@ Encoding: 1110 1110 1110
 Width: 778
 Flags: W
 Refer: 105 105 N 1 0 0 1 0 0 2
+Substitution: 0 65534 'DTLS' dotlessi
 EndChar
 StartChar: afii10104
 Encoding: 1111 1111 1111
@@ -20904,6 +20827,7 @@ Encoding: 1112 1112 1112
 Width: 741
 Flags: W
 Refer: 106 106 N 1 0 0 1 0 0 2
+Substitution: 0 65534 'DTLS' dotlessj
 EndChar
 StartChar: afii10106
 Encoding: 1113 1113 1113
@@ -21699,44 +21623,47 @@ Colour: ffff00
 EndChar
 StartChar: uni049E
 Encoding: 1182 1182 1182
-Width: 1780
+Width: 1863
 Flags: W
 TeX: 117 0 0 0
 Fore
-287 1260 m 1,0,-1
- 287 1372 l 1,32,-1
- 96 1372 l 1,31,-1
- 96 1493 l 1,30,-1
- 864 1493 l 1,29,-1
- 864 1372 l 1,28,-1
- 672 1372 l 1,27,-1
- 672 1260 l 1,26,-1
- 885 1260 l 1,25,-1
- 885 1123 l 1,24,-1
- 672 1123 l 1,23,-1
- 672 827 l 1,22,-1
- 1305 1372 l 1,21,-1
- 1145 1372 l 1,20,-1
- 1145 1493 l 1,19,-1
- 1702 1493 l 1,18,-1
- 1702 1372 l 1,17,-1
- 1503 1372 l 1,16,-1
- 967 911 l 1,15,-1
- 1696 121 l 1,14,-1
- 1843 121 l 1,13,-1
- 1843 0 l 1,12,-1
- 1337 0 l 1,11,-1
- 672 725 l 1,10,-1
- 672 121 l 1,9,-1
- 864 121 l 1,8,-1
- 864 0 l 1,7,-1
- 96 0 l 1,6,-1
- 96 121 l 1,5,-1
- 287 121 l 1,4,-1
- 287 1123 l 1,3,-1
- 74 1123 l 1,2,-1
- 74 1260 l 1,1,-1
- 287 1260 l 1,0,-1
+96 1493 m 1,0,-1
+ 864 1493 l 1,1,-1
+ 864 1372 l 1,2,-1
+ 672 1372 l 1,3,-1
+ 672 1260 l 1,4,-1
+ 885 1260 l 1,5,-1
+ 885 1123 l 1,6,-1
+ 672 1123 l 1,7,-1
+ 672 760 l 1,8,-1
+ 1345 1372 l 1,9,-1
+ 1185 1372 l 1,10,-1
+ 1185 1493 l 1,11,-1
+ 1742 1493 l 1,12,-1
+ 1742 1372 l 1,13,-1
+ 1543 1372 l 1,14,-1
+ 1065 936 l 1,15,-1
+ 1696 121 l 1,16,-1
+ 1843 121 l 1,17,-1
+ 1843 0 l 1,18,-1
+ 1075 0 l 1,19,-1
+ 1075 121 l 1,20,-1
+ 1243 121 l 1,21,-1
+ 800 694 l 1,22,-1
+ 672 577 l 1,23,-1
+ 672 121 l 1,24,-1
+ 864 121 l 1,25,-1
+ 864 0 l 1,26,-1
+ 96 0 l 1,27,-1
+ 96 121 l 1,28,-1
+ 287 121 l 1,29,-1
+ 287 1123 l 1,30,-1
+ 74 1123 l 1,31,-1
+ 74 1260 l 1,32,-1
+ 287 1260 l 1,33,-1
+ 287 1372 l 1,34,-1
+ 96 1372 l 1,35,-1
+ 96 1493 l 1,0,-1
 EndSplineSet
 EndChar
 StartChar: uni049F
@@ -21786,40 +21713,43 @@ EndSplineSet
 EndChar
 StartChar: uni04A0
 Encoding: 1184 1184 1184
-Width: 1963
+Width: 2046
 Flags: W
 TeX: 117 0 0 0
 AnchorPoint: "below" 1207 0 basechar 0
 AnchorPoint: "above" 1207 1460 basechar 0
 Fore
--76 1493 m 9,0,-1
- 1047 1493 l 17,1,-1
+-76 1493 m 1,0,-1
+ 1047 1493 l 1,1,-1
  1047 1372 l 1,2,-1
  855 1372 l 1,3,-1
- 855 827 l 1,4,-1
- 1488 1372 l 1,5,-1
- 1328 1372 l 1,6,-1
- 1328 1493 l 1,7,-1
- 1885 1493 l 1,8,-1
- 1885 1372 l 1,9,-1
- 1686 1372 l 1,10,-1
- 1150 911 l 1,11,-1
+ 855 760 l 1,4,-1
+ 1528 1372 l 1,5,-1
+ 1368 1372 l 1,6,-1
+ 1368 1493 l 1,7,-1
+ 1925 1493 l 1,8,-1
+ 1925 1372 l 1,9,-1
+ 1726 1372 l 1,10,-1
+ 1248 936 l 1,11,-1
  1879 121 l 1,12,-1
  2026 121 l 1,13,-1
  2026 0 l 1,14,-1
- 1520 0 l 1,15,-1
- 855 725 l 1,16,-1
- 855 121 l 1,17,-1
- 1047 121 l 1,18,-1
- 1047 0 l 1,19,-1
- 279 0 l 1,20,-1
- 279 121 l 1,21,-1
- 470 121 l 1,22,-1
- 470 1356 l 1,23,-1
- 61 1356 l 1,24,-1
- 61 1120 l 1,25,-1
- -76 1120 l 1,26,-1
- -76 1493 l 9,0,-1
+ 1258 0 l 1,15,-1
+ 1258 121 l 1,16,-1
+ 1426 121 l 1,17,-1
+ 983 694 l 1,18,-1
+ 855 577 l 1,19,-1
+ 855 121 l 1,20,-1
+ 1047 121 l 1,21,-1
+ 1047 0 l 1,22,-1
+ 279 0 l 1,23,-1
+ 279 121 l 1,24,-1
+ 470 121 l 1,25,-1
+ 470 1356 l 1,26,-1
+ 61 1356 l 1,27,-1
+ 61 1120 l 1,28,-1
+ -76 1120 l 1,29,-1
+ -76 1493 l 1,0,-1
 EndSplineSet
 EndChar
 StartChar: uni04A1
@@ -26867,6 +26797,7 @@ Flags: W
 TeX: 117 0 0 0
 Refer: 105 105 N 1 0 0 1 0 0 3
 Refer: 816 816 N 1 0 0 1 893 0 2
+Substitution: 0 65534 'DTLS' uni1E2D.dotless
 EndChar
 StartChar: uni1E30
 Encoding: 7728 7728 7728
@@ -27909,6 +27840,7 @@ Flags: W
 TeX: 117 0 0 0
 Refer: 105 105 N 1 0 0 1 0 0 2
 Refer: 803 803 N 1 0 0 1 910.3 0 2
+Substitution: 0 65534 'DTLS' uni1ECB.dotless
 EndChar
 StartChar: uni1ECC
 Encoding: 7884 7884 7884
@@ -30038,15 +29970,15 @@ Refer: 8208 8208 N 1 0 0 1 0 0 3
 EndChar
 StartChar: figuredash
 Encoding: 8210 8210 8210
-Width: 1024
+Width: 1425
 Flags: W
 TtfInstrs: 14
 ZiU41!<=du0`Vd7bV0"s
 EndTtf
 Fore
 0 664 m 1,0,-1
- 1024 664 l 1,1,-1
- 1024 424 l 1,2,-1
+ 1425 664 l 1,1,-1
+ 1425 424 l 1,2,-1
  0 424 l 1,3,-1
  0 664 l 1,0,-1
 EndSplineSet
@@ -30459,6 +30391,36 @@ EndSplineSet
 LCarets: 0 65535 '    ' 2 0 0 
 Ligature: 0 1 'dlig' period period period
 EndChar
+StartChar: uni202A
+Encoding: 8234 8234 8234
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni202B
+Encoding: 8235 8235 8235
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: afii61573
+Encoding: 8236 8236 8236
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: afii61574
+Encoding: 8237 8237 8237
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: afii61575
+Encoding: 8238 8238 8238
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
 StartChar: uni202F
 Encoding: 8239 8239 8239
 Width: 409
@@ -30742,6 +30704,18 @@ Refer: 63 63 N 1 0 0 1 512 0 2
 LCarets: 0 65535 '    ' 1 0 
 Ligature: 0 1 'dlig' exclam question
 EndChar
+StartChar: uni205F
+Encoding: 8287 8287 8287
+Width: 455
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni2060
+Encoding: 8288 8288 8288
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
 StartChar: uni2061
 Encoding: 8289 8289 8289
 Width: 0
@@ -30756,6 +30730,42 @@ TeX: 0 0 0 0
 EndChar
 StartChar: uni2063
 Encoding: 8291 8291 8291
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206A
+Encoding: 8298 8298 8298
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206B
+Encoding: 8299 8299 8299
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206C
+Encoding: 8300 8300 8300
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206D
+Encoding: 8301 8301 8301
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206E
+Encoding: 8302 8302 8302
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uni206F
+Encoding: 8303 8303 8303
 Width: 0
 Flags: W
 TeX: 0 0 0 0
@@ -40209,6 +40219,102 @@ EndSplineSet
 Ligature: 0 3 'dlig' s t
 LCarets: 0 65535 '    ' 1 0 
 EndChar
+StartChar: uniFE00
+Encoding: 65024 65024 65024
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE01
+Encoding: 65025 65025 65025
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE02
+Encoding: 65026 65026 65026
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE03
+Encoding: 65027 65027 65027
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE04
+Encoding: 65028 65028 65028
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE05
+Encoding: 65029 65029 65029
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE06
+Encoding: 65030 65030 65030
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE07
+Encoding: 65031 65031 65031
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE08
+Encoding: 65032 65032 65032
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE09
+Encoding: 65033 65033 65033
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0A
+Encoding: 65034 65034 65034
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0B
+Encoding: 65035 65035 65035
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0C
+Encoding: 65036 65036 65036
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0D
+Encoding: 65037 65037 65037
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0E
+Encoding: 65038 65038 65038
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
+StartChar: uniFE0F
+Encoding: 65039 65039 65039
+Width: 0
+Flags: W
+TeX: 0 0 0 0
+EndChar
 StartChar: uniFFFD
 Encoding: 65533 65533 65533
 Width: 2280
@@ -40521,6 +40627,114 @@ Fore
  -725 1526 l 1,7,-1
  -446 1526 l 1,4,-1
 EndSplineSet
+EndChar
+StartChar: iogonek.dotless
+Encoding: 65549 -1 65549
+Width: 778
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 389 1092 basechar 0
+Refer: 305 305 N 1 0 0 1 0 0 2
+Refer: 731 731 N 1 0 0 1 6 0 2
+EndChar
+StartChar: uni0268.dotless
+Encoding: 65550 -1 65550
+Width: 778
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 389 1092 basechar 0
+AnchorPoint: "below" 381 0 basechar 0
+Fore
+575 121 m 1,0,-1
+ 727 121 l 1,1,-1
+ 727 0 l 1,2,-1
+ 70 0 l 1,3,-1
+ 70 121 l 1,4,-1
+ 221 121 l 1,5,-1
+ 221 479 l 1,6,-1
+ 70 479 l 1,7,-1
+ 70 600 l 1,8,-1
+ 221 600 l 1,9,-1
+ 221 942 l 1,10,-1
+ 70 942 l 1,11,-1
+ 70 1063 l 1,12,-1
+ 575 1063 l 1,13,-1
+ 575 600 l 1,14,-1
+ 727 600 l 1,15,-1
+ 727 479 l 1,16,-1
+ 575 479 l 1,17,-1
+ 575 121 l 1,0,-1
+EndSplineSet
+EndChar
+StartChar: dotaccent.i
+Encoding: 65551 -1 65551
+Width: 778
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 381 1585 basechar 0
+Fore
+188 1364 m 0,0,1
+ 188 1445 188 1445 244 1500.5 c 128,-1,2
+ 300 1556 300 1556 381 1556 c 0,3,4
+ 460 1556 460 1556 515.5 1500.5 c 128,-1,5
+ 571 1445 571 1445 571 1364 c 0,6,7
+ 571 1285 571 1285 515.5 1229.5 c 128,-1,8
+ 460 1174 460 1174 381 1174 c 0,9,10
+ 300 1174 300 1174 244 1229 c 128,-1,11
+ 188 1284 188 1284 188 1364 c 0,0,1
+EndSplineSet
+EndChar
+StartChar: uni029D.dotless
+Encoding: 65552 -1 65552
+Width: 786
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 364 1092 basechar 0
+Fore
+599 -244 m 1,0,1
+ 571 -322 571 -322 502 -372 c 0,2,3
+ 387 -456 387 -456 261 -456 c 0,4,5
+ -87 -456 -87 -456 -87 -231 c 0,6,7
+ -87 -34 -87 -34 167 -31 c 2,8,-1
+ 175 -31 l 2,9,10
+ 221 -31 221 -31 264 -34 c 1,11,-1
+ 264 942 l 1,12,-1
+ 113 942 l 1,13,-1
+ 113 1063 l 1,14,-1
+ 618 1063 l 1,15,-1
+ 618 -134 l 1,16,17
+ 798 -239 798 -239 798 -423 c 1,18,-1
+ 688 -423 l 1,19,20
+ 676 -344 676 -344 652 -306.5 c 128,-1,21
+ 628 -269 628 -269 599 -244 c 1,0,1
+264 -123 m 1,22,23
+ 246 -121 246 -121 236 -121 c 2,24,-1
+ 223 -121 l 2,25,26
+ 45 -121 45 -121 45 -246 c 0,27,28
+ 45 -328 45 -328 158 -328 c 0,29,30
+ 167 -328 167 -328 186 -326.5 c 128,-1,31
+ 205 -325 205 -325 235 -297 c 0,32,33
+ 264 -269 264 -269 264 -125 c 2,34,-1
+ 264 -123 l 1,22,23
+EndSplineSet
+EndChar
+StartChar: uni1E2D.dotless
+Encoding: 65553 -1 65553
+Width: 778
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 389 1092 basechar 0
+Refer: 305 305 N 1 0 0 1 0 0 2
+Refer: 816 816 N 1 0 0 1 893 0 2
+EndChar
+StartChar: uni1ECB.dotless
+Encoding: 65554 -1 65554
+Width: 778
+Flags: W
+TeX: 0 0 0 0
+AnchorPoint: "above" 389 1092 basechar 0
+Refer: 305 305 N 1 0 0 1 0 0 2
+Refer: 803 803 N 1 0 0 1 910.3 0 2
 EndChar
 EndChars
 EndSplineFont
