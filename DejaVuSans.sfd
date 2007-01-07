@@ -33882,7 +33882,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1065 373 2
 Refer: 5125 5125 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1408
 Encoding: 5128 5128 5128
@@ -33897,7 +33896,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 357 0 2
 Refer: 5125 5125 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni140A
 Encoding: 5130 5130 5130
@@ -33935,7 +33933,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5121 5121 N 1 0 0 1 309 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni140D
 Encoding: 5133 5133 5133
@@ -33944,7 +33941,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
 Refer: 5121 5121 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni140E
 Encoding: 5134 5134 5134
@@ -33953,7 +33949,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5123 5123 N 1 0 0 1 309 0 2
-Colour: ffff00
 EndChar
 StartChar: uni140F
 Encoding: 5135 5135 5135
@@ -33962,7 +33957,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
 Refer: 5123 5123 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1410
 Encoding: 5136 5136 5136
@@ -33971,7 +33965,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5124 5124 N 1 0 0 1 309 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1411
 Encoding: 5137 5137 5137
@@ -33980,7 +33973,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5124 5124 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1412
 Encoding: 5138 5138 5138
@@ -33989,7 +33981,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5125 5125 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1413
 Encoding: 5139 5139 5139
@@ -33998,7 +33989,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
 Refer: 5125 5125 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1414
 Encoding: 5140 5140 5140
@@ -34007,7 +33997,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5126 5126 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1415
 Encoding: 5141 5141 5141
@@ -34016,7 +34005,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5126 5126 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1416
 Encoding: 5142 5142 5142
@@ -34025,7 +34013,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1737 48 2
 Refer: 5126 5126 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1417
 Encoding: 5143 5143 5143
@@ -34034,7 +34021,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5130 5130 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1418
 Encoding: 5144 5144 5144
@@ -34043,7 +34029,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5130 5130 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1419
 Encoding: 5145 5145 5145
@@ -34052,7 +34037,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5131 5131 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni141A
 Encoding: 5146 5146 5146
@@ -34061,7 +34045,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5131 5131 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni141B
 Encoding: 5147 5147 5147
@@ -34070,7 +34053,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 831 48 2
 Refer: 5131 5131 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni141C
 Encoding: 5148 5148 5148
@@ -34090,7 +34072,6 @@ Fore
  201 1289 l 1,3,-1
  201 1493 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni141E
 Encoding: 5150 5150 5150
@@ -34108,7 +34089,6 @@ Fore
  999 668 l 1,6,-1
  137 668 l 17,3,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni141F
 Encoding: 5151 5151 5151
@@ -34122,7 +34102,6 @@ Fore
  204 730 l 9,3,-1
  94 823 l 17,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1420
 Encoding: 5152 5152 5152
@@ -34136,7 +34115,6 @@ Fore
  204 1463 l 1,1,-1
  741 823 l 9,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1421
 Encoding: 5153 5153 5153
@@ -34160,7 +34138,6 @@ Fore
  685 1380 l 25,0,0
  685 1091 l 17,0,1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1422
 Encoding: 5154 5154 5154
@@ -34184,7 +34161,6 @@ Fore
  526 1365 526 1365 605.5 1285 c 128,-1,14
  685 1205 685 1205 685 1090 c 9,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1423
 Encoding: 5155 5155 5155
@@ -34208,7 +34184,6 @@ Fore
  137 816 l 25,0,0
  419 816 l 18,0,1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1424
 Encoding: 5156 5156 5156
@@ -34235,7 +34210,6 @@ Fore
  526 1365 526 1365 605.5 1285.5 c 128,-1,23
  685 1206 685 1206 685 1091 c 128,-1,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1425
 Encoding: 5157 5157 5157
@@ -34254,7 +34228,6 @@ Fore
  207 669 l 9,7,-1
  72 718 l 17,4,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1426
 Encoding: 5158 5158 5158
@@ -34289,7 +34262,6 @@ Fore
  201 638 l 1,3,-1
  201 843 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1428
 Encoding: 5160 5160 5160
@@ -34303,7 +34275,6 @@ Fore
  685 1153 l 25,24,-1
  685 1030 l 25,3,4
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1429
 Encoding: 5161 5161 5161
@@ -34325,7 +34296,6 @@ Fore
  685 1030 l 1,11,-1
  472 1030 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni142A
 Encoding: 5162 5162 5162
@@ -34343,7 +34313,6 @@ Fore
  685 1292 l 1,11,-1
  472 1292 l 9,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni142B
 Encoding: 5163 5163 5163
@@ -34352,7 +34321,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5152 5152 N 1 0 0 1 1365 0 2
 Refer: 5121 5121 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni142C
 Encoding: 5164 5164 5164
@@ -34361,7 +34329,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5152 5152 N 1 0 0 1 994 0 2
 Refer: 5123 5123 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni142D
 Encoding: 5165 5165 5165
@@ -34370,7 +34337,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5152 5152 N 1 0 0 1 1085 0 2
 Refer: 5125 5125 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni142E
 Encoding: 5166 5166 5166
@@ -34379,7 +34345,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5152 5152 N 1 0 0 1 1420 0 2
 Refer: 5130 5130 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni142F
 Encoding: 5167 5167 5167
@@ -34445,7 +34410,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1065 373 2
 Refer: 5171 5171 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1436
 Encoding: 5174 5174 5174
@@ -34460,7 +34424,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 182 0 2
 Refer: 5171 5171 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1438
 Encoding: 5176 5176 5176
@@ -34496,7 +34459,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5167 5167 N 1 0 0 1 309 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni143B
 Encoding: 5179 5179 5179
@@ -34505,7 +34467,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 86 86 N 1 0 0 1 0 0 3
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
-Colour: ffff00
 EndChar
 StartChar: uni143C
 Encoding: 5180 5180 5180
@@ -34514,7 +34475,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5169 5169 N 1 0 0 1 309 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni143D
 Encoding: 5181 5181 5181
@@ -34523,7 +34483,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5169 5169 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
-Colour: ffff00
 EndChar
 StartChar: uni143E
 Encoding: 5182 5182 5182
@@ -34532,7 +34491,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5170 5170 N 1 0 0 1 309 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni143F
 Encoding: 5183 5183 5183
@@ -34541,7 +34499,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5170 5170 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1185 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1440
 Encoding: 5184 5184 5184
@@ -34550,7 +34507,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5171 5171 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1441
 Encoding: 5185 5185 5185
@@ -34559,7 +34515,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5171 5171 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1442
 Encoding: 5186 5186 5186
@@ -34568,7 +34523,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5172 5172 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1443
 Encoding: 5187 5187 5187
@@ -34577,7 +34531,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5172 5172 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1444
 Encoding: 5188 5188 5188
@@ -34586,7 +34539,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5177 5177 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1445
 Encoding: 5189 5189 5189
@@ -34595,7 +34547,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5176 5176 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1446
 Encoding: 5190 5190 5190
@@ -34604,7 +34555,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5177 5177 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1447
 Encoding: 5191 5191 5191
@@ -34613,7 +34563,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5177 5177 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1448
 Encoding: 5192 5192 5192
@@ -34622,7 +34571,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1329 373 2
 Refer: 5176 5176 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1449
 Encoding: 5193 5193 5193
@@ -34756,7 +34704,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1223 373 2
 Refer: 5200 5200 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1453
 Encoding: 5203 5203 5203
@@ -34771,7 +34718,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 182 0 2
 Refer: 5200 5200 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1455
 Encoding: 5205 5205 5205
@@ -34814,7 +34760,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5196 5196 N 1 0 0 1 387 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1458
 Encoding: 5208 5208 5208
@@ -34823,7 +34768,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1296 0 2
 Refer: 5196 5196 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1459
 Encoding: 5209 5209 5209
@@ -34832,7 +34776,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5198 5198 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145A
 Encoding: 5210 5210 5210
@@ -34841,7 +34784,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5198 5198 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1296 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145B
 Encoding: 5211 5211 5211
@@ -34850,7 +34792,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5199 5199 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145C
 Encoding: 5212 5212 5212
@@ -34859,7 +34800,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5199 5199 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1296 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145D
 Encoding: 5213 5213 5213
@@ -34868,7 +34808,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5200 5200 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145E
 Encoding: 5214 5214 5214
@@ -34877,7 +34816,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1320 0 2
 Refer: 5200 5200 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni145F
 Encoding: 5215 5215 5215
@@ -34886,7 +34824,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5201 5201 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1460
 Encoding: 5216 5216 5216
@@ -34895,7 +34832,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5201 5201 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1320 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1461
 Encoding: 5217 5217 5217
@@ -34904,7 +34840,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5205 5205 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1462
 Encoding: 5218 5218 5218
@@ -34913,7 +34848,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1320 0 2
 Refer: 5205 5205 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1463
 Encoding: 5219 5219 5219
@@ -34922,7 +34856,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5206 5206 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1464
 Encoding: 5220 5220 5220
@@ -34931,7 +34864,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5206 5206 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1320 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1465
 Encoding: 5221 5221 5221
@@ -34940,7 +34872,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5205 5205 N 1 0 0 1 445 0 2
 Refer: 65630 -1 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1466
 Encoding: 5222 5222 5222
@@ -34975,7 +34906,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1404 0 2
 Refer: 5196 5196 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1468
 Encoding: 5224 5224 5224
@@ -34984,7 +34914,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1404 0 2
 Refer: 5198 5198 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1469
 Encoding: 5225 5225 5225
@@ -34993,7 +34922,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1380.5 0 2
 Refer: 5200 5200 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni146A
 Encoding: 5226 5226 5226
@@ -35002,7 +34930,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1430 0 2
 Refer: 5205 5205 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni146B
 Encoding: 5227 5227 5227
@@ -35128,7 +35055,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1491 373 2
 Refer: 5231 5231 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1472
 Encoding: 5234 5234 5234
@@ -35176,7 +35102,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5227 5227 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1475
 Encoding: 5237 5237 5237
@@ -35185,7 +35110,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
 Refer: 5227 5227 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1476
 Encoding: 5238 5238 5238
@@ -35194,7 +35118,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5229 5229 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1477
 Encoding: 5239 5239 5239
@@ -35203,7 +35126,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
 Refer: 5229 5229 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1478
 Encoding: 5240 5240 5240
@@ -35212,7 +35134,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5230 5230 N 1 0 0 1 382 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1479
 Encoding: 5241 5241 5241
@@ -35221,7 +35142,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5230 5230 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147A
 Encoding: 5242 5242 5242
@@ -35230,7 +35150,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5231 5231 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147B
 Encoding: 5243 5243 5243
@@ -35239,7 +35158,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5231 5231 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147C
 Encoding: 5244 5244 5244
@@ -35248,7 +35166,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5232 5232 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147D
 Encoding: 5245 5245 5245
@@ -35257,7 +35174,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5232 5232 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147E
 Encoding: 5246 5246 5246
@@ -35266,7 +35182,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5234 5234 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni147F
 Encoding: 5247 5247 5247
@@ -35275,7 +35190,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5234 5234 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1480
 Encoding: 5248 5248 5248
@@ -35284,7 +35198,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5235 5235 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1481
 Encoding: 5249 5249 5249
@@ -35293,7 +35206,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5235 5235 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1482
 Encoding: 5250 5250 5250
@@ -35302,7 +35214,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65630 -1 N 1 0 0 1 0 0 2
 Refer: 5234 5234 N 1 0 0 1 382 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1483
 Encoding: 5251 5251 5251
@@ -35362,7 +35273,6 @@ Fore
  228 1183 228 1183 376 1183 c 0,14,15
  471 1183 471 1183 552 1142 c 9,12,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1485
 Encoding: 5253 5253 5253
@@ -35371,7 +35281,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1144 0 2
 Refer: 5227 5227 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1486
 Encoding: 5254 5254 5254
@@ -35380,7 +35289,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1194 0 2
 Refer: 5229 5229 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1487
 Encoding: 5255 5255 5255
@@ -35389,7 +35297,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1144 0 2
 Refer: 5231 5231 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1488
 Encoding: 5256 5256 5256
@@ -35398,7 +35305,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5194 5194 N 1 0 0 1 1194 0 2
 Refer: 5234 5234 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1489
 Encoding: 5257 5257 5257
@@ -35503,7 +35409,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1491 373 2
 Refer: 5261 5261 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1490
 Encoding: 5264 5264 5264
@@ -35544,7 +35449,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5257 5257 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1493
 Encoding: 5267 5267 5267
@@ -35553,7 +35457,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5257 5257 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1494
 Encoding: 5268 5268 5268
@@ -35562,7 +35465,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5259 5259 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1495
 Encoding: 5269 5269 5269
@@ -35571,7 +35473,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5259 5259 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1496
 Encoding: 5270 5270 5270
@@ -35580,7 +35481,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5260 5260 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1497
 Encoding: 5271 5271 5271
@@ -35589,7 +35489,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5260 5260 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1498
 Encoding: 5272 5272 5272
@@ -35598,7 +35497,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5261 5261 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1499
 Encoding: 5273 5273 5273
@@ -35607,7 +35505,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5261 5261 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149A
 Encoding: 5274 5274 5274
@@ -35616,7 +35513,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5262 5262 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149B
 Encoding: 5275 5275 5275
@@ -35625,7 +35521,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5262 5262 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1054 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149C
 Encoding: 5276 5276 5276
@@ -35634,7 +35529,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5264 5264 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149D
 Encoding: 5277 5277 5277
@@ -35643,7 +35537,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5264 5264 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149E
 Encoding: 5278 5278 5278
@@ -35652,7 +35545,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5265 5265 N 1 0 0 1 382 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni149F
 Encoding: 5279 5279 5279
@@ -35661,7 +35553,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5265 5265 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1147.5 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14A0
 Encoding: 5280 5280 5280
@@ -35670,7 +35561,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65630 -1 N 1 0 0 1 0 0 2
 Refer: 5264 5264 N 1 0 0 1 382 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14A1
 Encoding: 5281 5281 5281
@@ -35716,7 +35606,6 @@ Fore
  137 777 137 777 137 917 c 9,1,2
  281 917 l 17,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14A3
 Encoding: 5283 5283 5283
@@ -35803,7 +35692,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1459 373 2
 Refer: 5287 5287 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14AA
 Encoding: 5290 5290 5290
@@ -35827,7 +35715,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5283 5283 N 1 0 0 1 285 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14AD
 Encoding: 5293 5293 5293
@@ -35836,7 +35723,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1050 0 2
 Refer: 5283 5283 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14AE
 Encoding: 5294 5294 5294
@@ -35845,7 +35731,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5285 5285 N 1 0 0 1 387 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14AF
 Encoding: 5295 5295 5295
@@ -35854,7 +35739,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1040 0 2
 Refer: 5285 5285 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B0
 Encoding: 5296 5296 5296
@@ -35863,7 +35747,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5286 5286 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B1
 Encoding: 5297 5297 5297
@@ -35872,7 +35755,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5286 5286 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1040 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B2
 Encoding: 5298 5298 5298
@@ -35881,7 +35763,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5287 5287 N 1 0 0 1 285 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B3
 Encoding: 5299 5299 5299
@@ -35890,7 +35771,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5287 5287 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1050 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B4
 Encoding: 5300 5300 5300
@@ -35899,7 +35779,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5288 5288 N 1 0 0 1 285 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B5
 Encoding: 5301 5301 5301
@@ -35908,7 +35787,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5288 5288 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1050 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B6
 Encoding: 5302 5302 5302
@@ -35917,7 +35795,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5290 5290 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B7
 Encoding: 5303 5303 5303
@@ -35926,7 +35803,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5290 5290 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1040 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B8
 Encoding: 5304 5304 5304
@@ -35935,7 +35811,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5291 5291 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14B9
 Encoding: 5305 5305 5305
@@ -35944,7 +35819,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5291 5291 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1040 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14BA
 Encoding: 5306 5306 5306
@@ -35953,7 +35827,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65630 -1 N 1 0 0 1 0 0 2
 Refer: 5290 5290 N 1 0 0 1 387 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14BB
 Encoding: 5307 5307 5307
@@ -35998,7 +35871,6 @@ Fore
  479 778 479 778 647 778 c 2,17,-1
  928 778 l 9,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14BD
 Encoding: 5309 5309 5309
@@ -36014,7 +35886,6 @@ Fore
  137 778 l 1,1,-1
  533 778 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14BE
 Encoding: 5310 5310 5310
@@ -36152,7 +36023,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1706 -196 2
 Refer: 5316 5316 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14C7
 Encoding: 5319 5319 5319
@@ -36200,7 +36070,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5312 5312 N 1 0 0 1 446 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14CA
 Encoding: 5322 5322 5322
@@ -36209,7 +36078,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1595 0 2
 Refer: 5312 5312 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14CB
 Encoding: 5323 5323 5323
@@ -36218,7 +36086,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5319 5319 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14CC
 Encoding: 5324 5324 5324
@@ -36227,7 +36094,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1145 0 2
 Refer: 5319 5319 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14CD
 Encoding: 5325 5325 5325
@@ -36236,7 +36102,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5320 5320 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14CE
 Encoding: 5326 5326 5326
@@ -36245,7 +36110,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5320 5320 N 1 0 0 1 0 0 3
 Refer: 5159 5159 N 1 0 0 1 1145 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14CF
 Encoding: 5327 5327 5327
@@ -36254,7 +36118,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1108 -196 2
 Refer: 5319 5319 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14D0
 Encoding: 5328 5328 5328
@@ -36290,23 +36153,22 @@ Width: 927
 Flags: W
 TeX: 0 0 0 0
 Fore
-476 651 m 24
+476 651 m 24,0,1
  308 651 308 651 222.5 718 c 128,-1,6
  137 785 137 785 137 917 c 10,7,-1
  137 1503 l 1,8,-1
  281 1503 l 1,9,-1
  281 917 l 2,10,11
  281 837 281 837 329.5 798.5 c 128,-1,12
- 378 760 378 760 476 760 c 24
+ 378 760 378 760 476 760 c 24,13,14
  573 760 573 760 621.5 798.5 c 128,-1,12
  670 837 670 837 670 917 c 2,10,11
  670 1503 l 1,9,-1
  814 1503 l 1,8,-1
  814 917 l 18,7,-1
  814 785 814 785 728.5 718 c 128,-1,6
- 643 651 643 651 476 651 c 24
+ 643 651 643 651 476 651 c 24,0,1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14D2
 Encoding: 5330 5330 5330
@@ -36335,7 +36197,6 @@ Fore
  1116 1117 1116 1117 1034.5 1054 c 128,-1,14
  953 991 953 991 796 991 c 10,12,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14D3
 Encoding: 5331 5331 5331
@@ -36440,7 +36301,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1706 -196 2
 Refer: 5335 5335 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14DA
 Encoding: 5338 5338 5338
@@ -36481,7 +36341,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5331 5331 N 1 0 0 1 446 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14DD
 Encoding: 5341 5341 5341
@@ -36490,7 +36349,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5331 5331 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1595 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14DE
 Encoding: 5342 5342 5342
@@ -36499,7 +36357,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5333 5333 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14DF
 Encoding: 5343 5343 5343
@@ -36508,7 +36365,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5333 5333 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1585 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E0
 Encoding: 5344 5344 5344
@@ -36517,7 +36373,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5334 5334 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E1
 Encoding: 5345 5345 5345
@@ -36526,7 +36381,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5334 5334 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1585 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E2
 Encoding: 5346 5346 5346
@@ -36535,7 +36389,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5335 5335 N 1 0 0 1 446 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E3
 Encoding: 5347 5347 5347
@@ -36544,7 +36397,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5335 5335 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1595 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E4
 Encoding: 5348 5348 5348
@@ -36553,7 +36405,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5336 5336 N 1 0 0 1 446 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E5
 Encoding: 5349 5349 5349
@@ -36562,7 +36413,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5336 5336 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1595 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E6
 Encoding: 5350 5350 5350
@@ -36571,7 +36421,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5338 5338 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E7
 Encoding: 5351 5351 5351
@@ -36580,7 +36429,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5338 5338 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1585 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E8
 Encoding: 5352 5352 5352
@@ -36589,7 +36437,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5339 5339 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14E9
 Encoding: 5353 5353 5353
@@ -36598,7 +36445,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5339 5339 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1585 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14EA
 Encoding: 5354 5354 5354
@@ -36648,7 +36494,6 @@ Fore
  370 420 l 1,12,-1
  1374 182 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni14ED
 Encoding: 5357 5357 5357
@@ -36750,7 +36595,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1443 373 2
 Refer: 5361 5361 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni14F4
 Encoding: 5364 5364 5364
@@ -36790,7 +36634,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5357 5357 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14F7
 Encoding: 5367 5367 5367
@@ -36799,7 +36642,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1020 0 2
 Refer: 5357 5357 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14F8
 Encoding: 5368 5368 5368
@@ -36808,7 +36650,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5359 5359 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14F9
 Encoding: 5369 5369 5369
@@ -36817,7 +36658,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1055 0 2
 Refer: 5359 5359 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FA
 Encoding: 5370 5370 5370
@@ -36826,7 +36666,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5360 5360 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FB
 Encoding: 5371 5371 5371
@@ -36835,7 +36674,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5360 5360 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1055 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FC
 Encoding: 5372 5372 5372
@@ -36844,7 +36682,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5361 5361 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FD
 Encoding: 5373 5373 5373
@@ -36853,7 +36690,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5361 5361 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1020 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FE
 Encoding: 5374 5374 5374
@@ -36862,7 +36698,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5362 5362 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni14FF
 Encoding: 5375 5375 5375
@@ -36871,7 +36706,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5362 5362 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1020 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1500
 Encoding: 5376 5376 5376
@@ -36880,7 +36714,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5364 5364 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1501
 Encoding: 5377 5377 5377
@@ -36889,7 +36722,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5364 5364 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1055 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1502
 Encoding: 5378 5378 5378
@@ -36898,7 +36730,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5365 5365 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1503
 Encoding: 5379 5379 5379
@@ -36907,7 +36738,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5365 5365 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1055 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1504
 Encoding: 5380 5380 5380
@@ -36916,7 +36746,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65630 -1 N 1 0 0 1 0 0 2
 Refer: 5364 5364 N 1 0 0 1 387 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1505
 Encoding: 5381 5381 5381
@@ -36977,7 +36806,6 @@ Fore
  503 1518 503 1518 566 1507 c 128,-1,39
  629 1496 629 1496 696 1475 c 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1507
 Encoding: 5383 5383 5383
@@ -36998,7 +36826,6 @@ Fore
  465.078 1065 465.078 1065 373.039 987.108 c 128,-1,2
  281 909.217 281 909.217 281 709.5 c 10,0,1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1508
 Encoding: 5384 5384 5384
@@ -37076,7 +36903,6 @@ Fore
  830 1339 830 1339 830 1046 c 10,7,-1
  830 446 l 2,10,11
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1511
 Encoding: 5393 5393 5393
@@ -37106,7 +36932,6 @@ Fore
  542.241 131 542.241 131 585.121 183.064 c 128,-1,12
  628 235.128 628 235.128 628 446 c 2,10,11
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1512
 Encoding: 5394 5394 5394
@@ -37115,7 +36940,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1523 372 2
 Refer: 5393 5393 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1513
 Encoding: 5395 5395 5395
@@ -37153,7 +36977,6 @@ Fore
  916 670 916 670 968 544 c 8,41,42
  1018 432 l 16,12,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1514
 Encoding: 5396 5396 5396
@@ -37162,7 +36985,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1419 -196 2
 Refer: 5395 5395 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1515
 Encoding: 5397 5397 5397
@@ -37200,7 +37022,6 @@ Fore
  644 141 644 141 710 242.5 c 144,-1,11
  776 344 776 344 808 432 c 8,12,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1516
 Encoding: 5398 5398 5398
@@ -37209,7 +37030,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1419 -196 2
 Refer: 5397 5397 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1517
 Encoding: 5399 5399 5399
@@ -37218,7 +37038,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 0 0 2
 Refer: 5392 5392 N 1 0 0 1 405 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1518
 Encoding: 5400 5400 5400
@@ -37227,7 +37046,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5392 5392 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1262 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1519
 Encoding: 5401 5401 5401
@@ -37236,7 +37054,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5393 5393 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151A
 Encoding: 5402 5402 5402
@@ -37245,7 +37062,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5393 5393 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1262 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151B
 Encoding: 5403 5403 5403
@@ -37254,7 +37070,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5394 5394 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151C
 Encoding: 5404 5404 5404
@@ -37263,7 +37078,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5394 5394 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1262 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151D
 Encoding: 5405 5405 5405
@@ -37272,7 +37086,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5395 5395 N 1 0 0 1 509 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151E
 Encoding: 5406 5406 5406
@@ -37281,7 +37094,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1728 0 2
 Refer: 5395 5395 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni151F
 Encoding: 5407 5407 5407
@@ -37290,7 +37102,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5396 5396 N 1 0 0 1 509 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1520
 Encoding: 5408 5408 5408
@@ -37299,7 +37110,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5396 5396 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1728 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1521
 Encoding: 5409 5409 5409
@@ -37308,7 +37118,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5397 5397 N 1 0 0 1 509 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1522
 Encoding: 5410 5410 5410
@@ -37317,7 +37126,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5397 5397 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1728 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1523
 Encoding: 5411 5411 5411
@@ -37326,7 +37134,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5398 5398 N 1 0 0 1 509 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1524
 Encoding: 5412 5412 5412
@@ -37335,7 +37142,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5398 5398 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1728 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1525
 Encoding: 5413 5413 5413
@@ -37373,7 +37179,6 @@ Fore
  492 1083 492 1083 526.5 1121.5 c 144,-1,11
  561 1160 561 1160 603 1228 c 0,12,13
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1526
 Encoding: 5414 5414 5414
@@ -37469,7 +37274,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65538 -1 N 1 0 0 1 1498 373 2
 Refer: 5418 5418 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni152D
 Encoding: 5421 5421 5421
@@ -37507,7 +37311,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5414 5414 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1530
 Encoding: 5424 5424 5424
@@ -37516,7 +37319,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1075 0 2
 Refer: 5414 5414 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1531
 Encoding: 5425 5425 5425
@@ -37525,7 +37327,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5416 5416 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1532
 Encoding: 5426 5426 5426
@@ -37534,7 +37335,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1152 0 2
 Refer: 5416 5416 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1533
 Encoding: 5427 5427 5427
@@ -37543,7 +37343,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5417 5417 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1534
 Encoding: 5428 5428 5428
@@ -37552,7 +37351,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5417 5417 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1152 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1535
 Encoding: 5429 5429 5429
@@ -37561,7 +37359,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5418 5418 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1536
 Encoding: 5430 5430 5430
@@ -37570,7 +37367,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5418 5418 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1075 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1537
 Encoding: 5431 5431 5431
@@ -37579,7 +37375,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5419 5419 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1538
 Encoding: 5432 5432 5432
@@ -37588,7 +37383,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5419 5419 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1075 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1539
 Encoding: 5433 5433 5433
@@ -37597,7 +37391,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5421 5421 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni153A
 Encoding: 5434 5434 5434
@@ -37606,7 +37399,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5421 5421 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1152 0 2
-Colour: ffff00
 EndChar
 StartChar: uni153B
 Encoding: 5435 5435 5435
@@ -37615,7 +37407,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5422 5422 N 1 0 0 1 387 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni153C
 Encoding: 5436 5436 5436
@@ -37624,7 +37415,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5422 5422 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1152 0 2
-Colour: ffff00
 EndChar
 StartChar: uni153D
 Encoding: 5437 5437 5437
@@ -37633,7 +37423,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65630 -1 N 1 0 0 1 0 0 2
 Refer: 5421 5421 N 1 0 0 1 387 0 2
-Colour: ffff00
 EndChar
 StartChar: uni153E
 Encoding: 5438 5438 5438
@@ -37668,7 +37457,6 @@ Width: 797
 Flags: W
 TeX: 0 0 0 0
 Refer: 5161 5161 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni1541
 Encoding: 5441 5441 5441
@@ -37690,7 +37478,6 @@ Fore
  440 1112 l 1,11,-1
  176 1503 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1542
 Encoding: 5442 5442 5442
@@ -37955,7 +37742,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5452 5452 N 1 0 0 1 474 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni154F
 Encoding: 5455 5455 5455
@@ -37964,7 +37750,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5159 5159 N 1 0 0 1 1020 0 2
 Refer: 5452 5452 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1550
 Encoding: 5456 5456 5456
@@ -38021,7 +37806,6 @@ Fore
  119 0 l 1,12,-1
  119 182 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1553
 Encoding: 5459 5459 5459
@@ -38202,7 +37986,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5466 5466 N 1 0 0 1 405 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni155C
 Encoding: 5468 5468 5468
@@ -38211,7 +37994,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5466 5466 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1456 0 2
-Colour: ffff00
 EndChar
 StartChar: uni155D
 Encoding: 5469 5469 5469
@@ -38510,7 +38292,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5479 5479 N 1 0 0 1 445 0 2
 Refer: 5159 5159 N 1 0 0 1 0 0 2
-Colour: ffff00
 EndChar
 StartChar: uni1569
 Encoding: 5481 5481 5481
@@ -38519,7 +38300,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 5479 5479 N 1 0 0 1 0 0 2
 Refer: 5159 5159 N 1 0 0 1 1320 0 2
-Colour: ffff00
 EndChar
 StartChar: uni156A
 Encoding: 5482 5482 5482
@@ -38673,7 +38453,6 @@ Width: 992
 Flags: W
 TeX: 0 0 0 0
 Refer: 5441 5441 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni157E
 Encoding: 5502 5502 5502
@@ -39234,7 +39013,6 @@ Fore
  881 0 l 1,8,-1
  881 224 l 1,13,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni15A8
 Encoding: 5544 5544 5544
@@ -39261,7 +39039,6 @@ Fore
  637 224 l 1,12,-1
  436 224 l 1,13,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni15A9
 Encoding: 5545 5545 5545
@@ -39270,7 +39047,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1027 372 2
 Refer: 5544 5544 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni15AA
 Encoding: 5546 5546 5546
@@ -39297,7 +39073,6 @@ Fore
  680 1269 l 1,12,-1
  881 1269 l 1,13,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni15AB
 Encoding: 5547 5547 5547
@@ -39306,7 +39081,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 1498 372 2
 Refer: 5546 5546 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni15AC
 Encoding: 5548 5548 5548
@@ -39333,7 +39107,6 @@ Fore
  637 1269 l 1,12,-1
  436 1269 l 1,13,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni15AD
 Encoding: 5549 5549 5549
@@ -39342,7 +39115,6 @@ Flags: W
 TeX: 0 0 0 0
 Refer: 65546 -1 N 1 0 0 1 854 372 2
 Refer: 5548 5548 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 StartChar: uni15AE
 Encoding: 5550 5550 5550
@@ -39369,7 +39141,6 @@ Fore
  137 1386 l 1,16,-1
  137 1503 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni15AF
 Encoding: 5551 5551 5551
@@ -40343,7 +40114,6 @@ Fore
  151 1393 l 1,9,-1
  151 1503 l 1,0,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1647
 Encoding: 5703 5703 5703
@@ -40381,7 +40151,6 @@ Fore
  313 778 l 1,25,-1
  443 778 l 1,23,-1
 EndSplineSet
-Colour: ffff00
 EndChar
 StartChar: uni1648
 Encoding: 5704 5704 5704
