@@ -34020,8 +34020,11 @@ Colour: ffff00
 EndChar
 StartChar: uni1416
 Encoding: 5142 5142 5142
-Width: 2048
+Width: 1575
+Flags: W
 TeX: 0 0 0 0
+Refer: 65546 -1 N 1 0 0 1 1737 48 2
+Refer: 5126 5126 N 1 0 0 1 0 0 2
 Colour: ffff00
 EndChar
 StartChar: uni1417
@@ -34062,9 +34065,12 @@ Colour: ffff00
 EndChar
 StartChar: uni141B
 Encoding: 5147 5147 5147
-Width: 2048
+Width: 1575
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+Refer: 65546 -1 N 1 0 0 1 831 48 2
+Refer: 5131 5131 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 StartChar: uni141C
 Encoding: 5148 5148 5148
