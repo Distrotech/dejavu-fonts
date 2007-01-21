@@ -34277,9 +34277,25 @@ EndSplineSet
 EndChar
 StartChar: uni14A2
 Encoding: 5282 5282 5282
-Width: 2048
+Width: 1026
+VWidth: 1795
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+353 937 m 17,0,-1
+ 353 873 353 873 406 836 c 128,-1,15
+ 459 799 459 799 522 799 c 0,13,14
+ 576 799 576 799 628.5 836 c 128,-1,12
+ 681 873 681 873 681 937 c 2,10,11
+ 681 1503 l 1,9,-1
+ 911 1503 l 1,8,-1
+ 911 937 l 18,7,-1
+ 911 800 911 800 800 726.5 c 128,-1,6
+ 689 653 689 653 521 653 c 0,4,5
+ 332 653 332 653 227.5 724.5 c 128,-1,3
+ 123 796 123 796 123 937 c 9,1,2
+ 353 937 l 17,0,-1
+EndSplineSet
 EndChar
 StartChar: uni14A3
 Encoding: 5283 5283 5283
@@ -34517,9 +34533,19 @@ EndSplineSet
 EndChar
 StartChar: uni14BD
 Encoding: 5309 5309 5309
-Width: 2048
+Width: 893
+VWidth: 1794
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+548 1503 m 1,0,-1
+ 778 1503 l 1,5,-1
+ 778 668 l 1,4,-1
+ 123 668 l 1,3,-1
+ 123 825 l 1,2,-1
+ 548 825 l 1,1,-1
+ 548 1503 l 1,0,-1
+EndSplineSet
 EndChar
 StartChar: uni14BE
 Encoding: 5310 5310 5310
