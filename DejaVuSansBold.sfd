@@ -32954,9 +32954,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni140D
 Encoding: 5133 5133 5133
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
+Refer: 5121 5121 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni140E
 Encoding: 5134 5134 5134
@@ -32968,9 +32970,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni140F
 Encoding: 5135 5135 5135
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5123 5123 N 1 0 0 1 0 0 2
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
 EndChar
 StartChar: uni1410
 Encoding: 5136 5136 5136
@@ -32982,9 +32986,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni1411
 Encoding: 5137 5137 5137
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5124 5124 N 1 0 0 1 0 0 2
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
 EndChar
 StartChar: uni1412
 Encoding: 5138 5138 5138
@@ -33319,9 +33325,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni143B
 Encoding: 5179 5179 5179
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5167 5167 N 1 0 0 1 0 0 2
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
 EndChar
 StartChar: uni143C
 Encoding: 5180 5180 5180
@@ -33333,9 +33341,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni143D
 Encoding: 5181 5181 5181
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5169 5169 N 1 0 0 1 0 0 2
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
 EndChar
 StartChar: uni143E
 Encoding: 5182 5182 5182
@@ -33347,9 +33357,11 @@ Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni143F
 Encoding: 5183 5183 5183
-Width: 2048
+Width: 2066
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5170 5170 N 1 0 0 1 0 0 2
+Refer: 5159 5159 N 1 0 0 1 1432 0 2
 EndChar
 StartChar: uni1440
 Encoding: 5184 5184 5184
