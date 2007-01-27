@@ -36209,9 +36209,11 @@ Refer: 5465 5465 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni155B
 Encoding: 5467 5467 5467
-Width: 2048
+Width: 2401
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5466 5466 N 1 0 0 1 500 0 2
+Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni155C
 Encoding: 5468 5468 5468
@@ -36512,9 +36514,11 @@ Refer: 5478 5478 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni1568
 Encoding: 5480 5480 5480
-Width: 2048
+Width: 2170
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5479 5479 N 1 0 0 1 500 0 2
+Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni1569
 Encoding: 5481 5481 5481
