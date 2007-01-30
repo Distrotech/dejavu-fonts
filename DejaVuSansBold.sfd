@@ -36253,15 +36253,19 @@ EndSplineSet
 EndChar
 StartChar: uni154E
 Encoding: 5454 5454 5454
-Width: 2048
+Width: 2054
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5452 5452 N 1 0 0 1 553 0 2
+Refer: 5159 5159 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni154F
 Encoding: 5455 5455 5455
-Width: 2048
+Width: 1964
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Refer: 5159 5159 N 1 0 0 1 1330 0 2
+Refer: 5452 5452 N 1 0 0 1 0 0 2
 EndChar
 StartChar: uni1550
 Encoding: 5456 5456 5456
