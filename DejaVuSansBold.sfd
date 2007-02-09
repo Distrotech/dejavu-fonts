@@ -35450,9 +35450,26 @@ Colour: ffff00
 EndChar
 StartChar: uni14EC
 Encoding: 5356 5356 5356
-Width: 2048
+Width: 1815
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+1643 284 m 5
+ 1643 0 l 5
+ 150 248 l 5
+ 150 604 l 5
+ 968 744 l 5
+ 150 882 l 5
+ 150 1238 l 5
+ 1643 1493 l 5
+ 1643 1201 l 5
+ 754 1070 l 5
+ 1643 892 l 5
+ 1643 601 l 5
+ 1643 600 l 5
+ 754 416 l 5
+ 1643 284 l 5
+EndSplineSet
 EndChar
 StartChar: uni14ED
 Encoding: 5357 5357 5357
@@ -36601,9 +36618,26 @@ Colour: ffff00
 EndChar
 StartChar: uni1552
 Encoding: 5458 5458 5458
-Width: 2048
+Width: 1815
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+150 284 m 1
+ 1039 416 l 1
+ 150 600 l 1
+ 150 601 l 1
+ 150 892 l 1
+ 1039 1070 l 1
+ 150 1201 l 1
+ 150 1493 l 1
+ 1643 1238 l 1
+ 1643 882 l 1
+ 825 744 l 1
+ 1643 604 l 1
+ 1643 248 l 1
+ 150 0 l 1
+ 150 284 l 1
+EndSplineSet
 EndChar
 StartChar: uni1553
 Encoding: 5459 5459 5459
