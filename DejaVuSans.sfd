@@ -34633,9 +34633,10 @@ Colour: ff00
 EndChar
 StartChar: uni13EE
 Encoding: 5102 5102 5102
-Width: 2048
+Width: 1303
+Flags: W
 TeX: 117 0 0 0
-Colour: ff00
+Refer: 54 54 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni13EF
 Encoding: 5103 5103 5103
