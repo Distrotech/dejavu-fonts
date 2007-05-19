@@ -31866,8 +31866,8 @@ Encoding: 2002 2002 2002
 Width: 1697
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-above" 480 1520 basechar 0
 AnchorPoint: "rtl-below" 914 0 basechar 0
-AnchorPoint: "rtl-above" 846 1394 basechar 0
 Fore
 881 1082 m 2,0,-1
  881 881 l 1,1,-1
@@ -99333,8 +99333,8 @@ Encoding: 57368 57368 57368
 Width: 1697
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-above" 480 1520 basechar 0
 AnchorPoint: "rtl-below" 914 0 basechar 0
-AnchorPoint: "rtl-above" 846 1394 basechar 0
 Fore
 1326 0 m 17,0,-1
  1326 734 l 1,1,-1
@@ -99371,8 +99371,8 @@ Encoding: 57369 57369 57369
 Width: 1697
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-above" 480 1520 basechar 0
 AnchorPoint: "rtl-below" 914 0 basechar 0
-AnchorPoint: "rtl-above" 846 1394 basechar 0
 Fore
 -20 0 m 17,0,-1
  -20 147 l 1,1,-1
@@ -99411,8 +99411,8 @@ Encoding: 57370 57370 57370
 Width: 1697
 Flags: W
 TeX: 0 0 0 0
+AnchorPoint: "rtl-above" 480 1520 basechar 0
 AnchorPoint: "rtl-below" 914 0 basechar 0
-AnchorPoint: "rtl-above" 846 1394 basechar 0
 Fore
 -20 0 m 17,0,-1
  -20 147 l 1,1,-1
