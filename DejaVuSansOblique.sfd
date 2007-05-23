@@ -62,16 +62,14 @@ Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22" 
 Lookup: 1 0 0 "Single Substitution lookup 23"  {"Single Substitution lookup 23"  } []
 Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 0"  {"'mkmk' Mark to Mark in Lao lookup 0"  } ['mkmk' ('lao ' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 1"  {"'mkmk' Mark to Mark in Lao lookup 1"  } ['mkmk' ('lao ' <'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 2"  {"'mkmk' Mark to Mark lookup 2"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 3"  {"'mkmk' Mark to Mark lookup 3"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark in Basic"  {"'mkmk' below-mark"  "'mkmk' above-mark"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 4"  {"'mark' Mark Positioning lookup 4"  } ['mark' ('arab' <'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 5"  {"'mark' Mark Positioning lookup 5"  } ['mark' ('arab' <'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 6"  {"'mark' Mark Positioning lookup 6"  } ['mark' ('arab' <'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 7"  {"'mark' Mark Positioning in Lao lookup 7"  } ['mark' ('lao ' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 8"  {"'mark' Mark Positioning in Lao lookup 8"  } ['mark' ('lao ' <'dflt' > ) ]
 Lookup: 261 0 0 "'mark' Mark Positioning lookup 9"  {"'mark' Mark Positioning lookup 9"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 10"  {"'mark' Mark Positioning lookup 10"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 11"  {"'mark' Mark Positioning lookup 11"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark to Base in Basic"  {"'mark' below"  "'mark' above"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'DNK ' 'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 12"  {"'kern' Horizontal Kerning in Latin lookup 12"  } ['kern' ('latn' <'DNK ' 'dflt' > ) ]
 KernClass2: 30 38 "'kern' Horizontal Kerning in Latin lookup 12" 
  14 hyphen uni2010
@@ -219,7 +217,7 @@ UnicodeInterp: none
 NameList: AGL without afii
 AntiAlias: 1
 FitToEm: 1
-AnchorClass2: "above"  "'mark' Mark Positioning lookup 11" "below"  "'mark' Mark Positioning lookup 10" "Ligature below"  "'mark' Mark Positioning lookup 9" "lao-below"  "'mark' Mark Positioning in Lao lookup 8" "lao-above"  "'mark' Mark Positioning in Lao lookup 7" "rtl-above"  "'mark' Mark Positioning lookup 6" "rtl-inside"  "'mark' Mark Positioning lookup 5" "rtl-below"  "'mark' Mark Positioning lookup 4" "above-mark"  "'mkmk' Mark to Mark lookup 3" "below-mark"  "'mkmk' Mark to Mark lookup 2" "lao-below-mark"  "'mkmk' Mark to Mark in Lao lookup 1" "lao-above-mark"  "'mkmk' Mark to Mark in Lao lookup 0" 
+AnchorClass2: "above"  "'mark' above" "below"  "'mark' below" "Ligature below"  "'mark' Mark Positioning lookup 9" "lao-below"  "'mark' Mark Positioning in Lao lookup 8" "lao-above"  "'mark' Mark Positioning in Lao lookup 7" "rtl-above"  "'mark' Mark Positioning lookup 6" "rtl-inside"  "'mark' Mark Positioning lookup 5" "rtl-below"  "'mark' Mark Positioning lookup 4" "above-mark"  "'mkmk' above-mark" "below-mark"  "'mkmk' below-mark" "lao-below-mark"  "'mkmk' Mark to Mark in Lao lookup 1" "lao-above-mark"  "'mkmk' Mark to Mark in Lao lookup 0" 
 BeginChars: 1114166 0
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -7280,28 +7278,36 @@ Encoding: 415 415 415
 Width: 1612
 Flags: W
 TeX: 117 0 0 0
+AnchorPoint: "above" 984 1520 basechar 0
+AnchorPoint: "below" 662 0 basechar 0
 Fore
-958 1520 m 0,0,1
- 1272 1520 1272 1520 1419 1310 c 0,2,3
- 1566 1099 1566 1099 1497 745 c 0,4,5
- 1428 392 1428 392 1199 182 c 0,6,7
- 970 -29 970 -29 656 -29 c 0,8,9
- 341 -29 341 -29 194 181 c 0,10,11
- 46 391 46 391 115 745 c 0,12,13
- 184 1099 184 1099 413 1310 c 0,14,15
- 643 1520 643 1520 958 1520 c 0,0,1
-926 1356 m 0,16,17
- 706 1356 706 1356 544 1192 c 0,18,19
- 393 1038 393 1038 335 780 c 1,20,-1
- 1290 780 l 1,21,22
- 1333 1038 1333 1038 1242 1192 c 0,23,24
- 1146 1356 1146 1356 926 1356 c 0,16,17
-310 614 m 1,25,26
- 297 423 297 423 371 299 c 0,27,28
- 468 135 468 135 688 135 c 0,29,30
- 908 135 908 135 1069 299 c 0,31,32
- 1190 423 1190 423 1251 614 c 1,33,-1
- 310 614 l 1,25,26
+672 -29 m 0,0,1
+ 397 -29 397 -29 239.5 134 c 128,-1,2
+ 82 297 82 297 82 580 c 0,3,4
+ 82 742 82 742 143.5 911 c 128,-1,5
+ 205 1080 205 1080 313 1212 c 0,6,7
+ 440 1367 440 1367 596 1443.5 c 128,-1,8
+ 752 1520 752 1520 940 1520 c 0,9,10
+ 1214 1520 1214 1520 1372 1358.5 c 128,-1,11
+ 1530 1197 1530 1197 1530 918 c 0,12,13
+ 1530 746 1530 746 1470 580 c 128,-1,14
+ 1410 414 1410 414 1298 279 c 0,15,16
+ 1170 123 1170 123 1015.5 47 c 128,-1,17
+ 861 -29 861 -29 672 -29 c 0,0,1
+1277 710 m 9,18,-1
+ 322 710 l 1,19,20
+ 308.304 628.141 308.304 628.141 308.304 556.731 c 0,21,22
+ 308.304 403.948 308.304 403.948 371 299 c 0,23,24
+ 468 135 468 135 688 135 c 0,25,26
+ 908 135 908 135 1063 293.5 c 128,-1,27
+ 1218 452 1218 452 1277 710 c 9,18,-1
+1302 880 m 17,28,29
+ 1304.23 909.591 1304.23 909.591 1304.23 937.663 c 0,30,31
+ 1304.23 1086.05 1304.23 1086.05 1242 1192 c 0,32,33
+ 1146 1356 1146 1356 926 1356 c 0,34,35
+ 706 1356 706 1356 544 1192 c 0,36,37
+ 425 1071 425 1071 363 880 c 1,38,-1
+ 1302 880 l 17,28,29
 EndSplineSet
 EndChar
 StartChar: Ohorn
@@ -11690,26 +11696,26 @@ AnchorPoint: "above" 751 1147 basechar 0
 AnchorPoint: "below" 528 0 basechar 0
 Fore
 741 1147 m 0,0,1
- 981 1147 981 1147 1088 991 c 0,2,3
- 1195 835 1195 835 1141 559 c 0,4,5
- 1088 284 1088 284 920 128 c 0,6,7
- 753 -29 753 -29 513 -29 c 0,8,9
- 272 -29 272 -29 166 128 c 0,10,11
- 60 284 60 284 113 559 c 0,12,13
- 167 835 167 835 334 991 c 0,14,15
+ 981 1147 981 1147 1088 991 c 128,-1,2
+ 1195 835 1195 835 1141 559 c 0,3,4
+ 1088 284 1088 284 920 128 c 0,5,6
+ 753 -29 753 -29 513 -29 c 0,7,8
+ 272 -29 272 -29 166 128 c 0,9,10
+ 60 284 60 284 113 559 c 0,11,12
+ 167 835 167 835 334 991 c 0,13,14
  500 1147 500 1147 741 1147 c 0,0,1
-711 991 m 0,16,17
- 563 991 563 991 455 876 c 0,18,19
- 361 775 361 775 319 611 c 1,20,-1
- 955 611 l 1,21,22
- 976 774 976 774 921 874 c 0,23,24
- 858 991 858 991 711 991 c 0,16,17
-917 447 m 1,25,-1
- 293 447 l 1,26,27
- 286 324 286 324 330 242 c 0,28,29
- 394 127 394 127 543 127 c 0,30,31
- 690 127 690 127 799 243 c 0,32,33
- 875 324 875 324 917 447 c 1,25,-1
+537 127 m 0,15,16
+ 685 127 685 127 793 242 c 0,17,18
+ 887 343 887 343 929 507 c 1,19,-1
+ 293 507 l 1,20,21
+ 272 344 272 344 327 244 c 0,22,23
+ 390 127 390 127 537 127 c 0,15,16
+331 671 m 1,24,-1
+ 955 671 l 1,25,26
+ 962.152 796.665 962.152 796.665 918 876 c 0,27,28
+ 854 991 854 991 705 991 c 0,29,30
+ 558 991 558 991 449 875 c 0,31,32
+ 373 794 373 794 331 671 c 1,24,-1
 EndSplineSet
 EndChar
 StartChar: uni0276
@@ -18498,29 +18504,9 @@ Encoding: 1012 1012 1012
 Width: 1612
 Flags: W
 TeX: 0 0 0 0
-Fore
-1277 710 m 9,0,-1
- 322 710 l 1,1,2
- 279 453 279 453 371 299 c 0,3,4
- 468 135 468 135 688 135 c 0,5,6
- 908 135 908 135 1069 299 c 0,7,8
- 1218 452 1218 452 1277 710 c 9,0,-1
-1302 880 m 17,9,10
- 1316 1066 1316 1066 1242 1192 c 0,11,12
- 1146 1356 1146 1356 926 1356 c 0,13,14
- 706 1356 706 1356 544 1192 c 0,15,16
- 425 1071 425 1071 363 880 c 1,17,-1
- 1302 880 l 17,9,10
-958 1520 m 0,18,19
- 1272 1520 1272 1520 1419 1310 c 0,20,21
- 1566 1099 1566 1099 1497 745 c 0,22,23
- 1428 392 1428 392 1199 182 c 0,24,25
- 970 -29 970 -29 656 -29 c 0,26,27
- 341 -29 341 -29 194 181 c 0,28,29
- 46 391 46 391 115 745 c 0,30,31
- 184 1099 184 1099 413 1310 c 0,32,33
- 643 1520 643 1520 958 1520 c 0,18,19
-EndSplineSet
+AnchorPoint: "below" 662 0 basechar 0
+AnchorPoint: "above" 984 1520 basechar 0
+Refer: 415 415 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni03F5
 Encoding: 1013 1013 1013
@@ -21086,41 +21072,18 @@ Encoding: 1138 1138 1138
 Width: 1612
 Flags: W
 TeX: 97 0 0 0
-Refer: 1256 1256 N 1 0 0 1 0 0 2
+AnchorPoint: "above" 984 1520 basechar 0
+AnchorPoint: "below" 662 0 basechar 0
+Refer: 415 415 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni0473
 Encoding: 1139 1139 1139
-Width: 1213
+Width: 1253
 Flags: W
 TeX: 97 0 0 0
-AnchorPoint: "above" 721 1147 basechar 0
-Fore
-721 1147 m 0,0,1
- 951 1147 951 1147 1053 993 c 0,2,3
- 1119.69 892.308 1119.69 892.308 1119.69 737.749 c 0,4,5
- 1119.69 655.923 1119.69 655.923 1101 559 c 0,6,7
- 1047 279 1047 279 885 125 c 128,-1,8
- 723 -29 723 -29 493 -29 c 0,9,10
- 263 -29 263 -29 161 125 c 0,11,12
- 94.3077 225.692 94.3077 225.692 94.3077 380.251 c 0,13,14
- 94.3077 462.077 94.3077 462.077 113 559 c 0,15,16
- 167 839 167 839 329 993 c 128,-1,17
- 491 1147 491 1147 721 1147 c 0,0,1
-324 633 m 1,18,-1
- 917 633 l 1,19,20
- 922.049 674.455 922.049 674.455 922.049 712.025 c 0,21,22
- 922.049 815.839 922.049 815.839 883.5 890 c 0,23,24
- 831 991 831 991 691 991 c 0,25,26
- 551 991 551 991 459 890 c 128,-1,27
- 367 789 367 789 324 633 c 1,18,-1
-889 486 m 1,28,-1
- 296 486 l 1,29,30
- 290.986 444.833 290.986 444.833 290.986 407.462 c 0,31,32
- 290.986 303.215 290.986 303.215 330 228.5 c 0,33,34
- 383 127 383 127 523 127 c 0,35,36
- 663 127 663 127 755 228.5 c 128,-1,37
- 847 330 847 330 889 486 c 1,28,-1
-EndSplineSet
+AnchorPoint: "below" 528 0 basechar 0
+AnchorPoint: "above" 751 1147 basechar 0
+Refer: 629 629 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni0474
 Encoding: 1140 1140 1140
@@ -23841,13 +23804,17 @@ Encoding: 1256 1256 1256
 Width: 1612
 Flags: W
 TeX: 117 0 0 0
-Refer: 1012 1012 N 1 0 0 1 0 0 3
+AnchorPoint: "above" 984 1520 basechar 0
+AnchorPoint: "below" 662 0 basechar 0
+Refer: 415 415 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni04E9
 Encoding: 1257 1257 1257
 Width: 1253
 Flags: W
 TeX: 117 0 0 0
+AnchorPoint: "above" 751 1147 basechar 0
+AnchorPoint: "below" 528 0 basechar 0
 Refer: 629 629 N 1 0 0 1 0 0 3
 EndChar
 StartChar: uni04EA
@@ -94608,6 +94575,879 @@ Fore
  196 848 l 1,37,-1
  1414 1868 l 1,34,-1
 EndSplineSet
+EndChar
+StartChar: u1D300
+Encoding: 119552 119552 119552
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Fore
+509 480 m 17,0,0
+ 170 480 l 1,3,-1
+ 170 680 l 1,0,-1
+ 509 680 l 9,0,0
+ 509 480 l 17,0,0
+1327 480 m 9,0,0
+ 1327 680 l 17,0,0
+ 1666 680 l 1,1,-1
+ 1666 480 l 1,2,-1
+ 1327 480 l 9,0,0
+1087 480 m 17,0,0
+ 749 480 l 1,0,0
+ 749 680 l 1,0,0
+ 1087 680 l 9,0,0
+ 1087 480 l 17,0,0
+EndSplineSet
+EndChar
+StartChar: u1D301
+Encoding: 119553 119553 119553
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 838 2
+Refer: 119552 119552 N 1 0 0 1 0 -168.5 2
+EndChar
+StartChar: u1D302
+Encoding: 119554 119554 119554
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 314.5 2
+Refer: 119552 119552 N 1 0 0 1 0 354 2
+EndChar
+StartChar: u1D303
+Encoding: 119555 119555 119555
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 835 2
+Refer: 119552 119552 N 1 0 0 1 0 -163 2
+EndChar
+StartChar: u1D304
+Encoding: 119556 119556 119556
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 354 2
+Refer: 9867 9867 N 1 0 0 1 0 315.5 2
+EndChar
+StartChar: u1D305
+Encoding: 119557 119557 119557
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 354 2
+Refer: 119552 119552 N 1 0 0 1 0 -163 2
+EndChar
+StartChar: u1D306
+Encoding: 119558 119558 119558
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D307
+Encoding: 119559 119559 119559
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D308
+Encoding: 119560 119560 119560
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+EndChar
+StartChar: u1D309
+Encoding: 119561 119561 119561
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D30A
+Encoding: 119562 119562 119562
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+EndChar
+StartChar: u1D30B
+Encoding: 119563 119563 119563
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+EndChar
+StartChar: u1D30C
+Encoding: 119564 119564 119564
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+EndChar
+StartChar: u1D30D
+Encoding: 119565 119565 119565
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+EndChar
+StartChar: u1D30E
+Encoding: 119566 119566 119566
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+EndChar
+StartChar: u1D30F
+Encoding: 119567 119567 119567
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+EndChar
+StartChar: u1D310
+Encoding: 119568 119568 119568
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+EndChar
+StartChar: u1D311
+Encoding: 119569 119569 119569
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+EndChar
+StartChar: u1D312
+Encoding: 119570 119570 119570
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+EndChar
+StartChar: u1D313
+Encoding: 119571 119571 119571
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+EndChar
+StartChar: u1D314
+Encoding: 119572 119572 119572
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+EndChar
+StartChar: u1D315
+Encoding: 119573 119573 119573
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+EndChar
+StartChar: u1D316
+Encoding: 119574 119574 119574
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+EndChar
+StartChar: u1D317
+Encoding: 119575 119575 119575
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+EndChar
+StartChar: u1D318
+Encoding: 119576 119576 119576
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D319
+Encoding: 119577 119577 119577
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+EndChar
+StartChar: u1D31A
+Encoding: 119578 119578 119578
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+EndChar
+StartChar: u1D31B
+Encoding: 119579 119579 119579
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+EndChar
+StartChar: u1D31C
+Encoding: 119580 119580 119580
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D31D
+Encoding: 119581 119581 119581
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D31E
+Encoding: 119582 119582 119582
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D31F
+Encoding: 119583 119583 119583
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D320
+Encoding: 119584 119584 119584
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 1152 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+EndChar
+StartChar: u1D321
+Encoding: 119585 119585 119585
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D322
+Encoding: 119586 119586 119586
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D323
+Encoding: 119587 119587 119587
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D324
+Encoding: 119588 119588 119588
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D325
+Encoding: 119589 119589 119589
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D326
+Encoding: 119590 119590 119590
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D327
+Encoding: 119591 119591 119591
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D328
+Encoding: 119592 119592 119592
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D329
+Encoding: 119593 119593 119593
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32A
+Encoding: 119594 119594 119594
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32B
+Encoding: 119595 119595 119595
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32C
+Encoding: 119596 119596 119596
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32D
+Encoding: 119597 119597 119597
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32E
+Encoding: 119598 119598 119598
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D32F
+Encoding: 119599 119599 119599
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D330
+Encoding: 119600 119600 119600
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D331
+Encoding: 119601 119601 119601
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D332
+Encoding: 119602 119602 119602
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D333
+Encoding: 119603 119603 119603
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D334
+Encoding: 119604 119604 119604
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D335
+Encoding: 119605 119605 119605
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D336
+Encoding: 119606 119606 119606
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D337
+Encoding: 119607 119607 119607
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D338
+Encoding: 119608 119608 119608
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D339
+Encoding: 119609 119609 119609
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D33A
+Encoding: 119610 119610 119610
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D33B
+Encoding: 119611 119611 119611
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 1152 2
+EndChar
+StartChar: u1D33C
+Encoding: 119612 119612 119612
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D33D
+Encoding: 119613 119613 119613
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D33E
+Encoding: 119614 119614 119614
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D33F
+Encoding: 119615 119615 119615
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D340
+Encoding: 119616 119616 119616
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D341
+Encoding: 119617 119617 119617
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D342
+Encoding: 119618 119618 119618
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D343
+Encoding: 119619 119619 119619
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D344
+Encoding: 119620 119620 119620
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 9866 9866 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D345
+Encoding: 119621 119621 119621
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D346
+Encoding: 119622 119622 119622
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D347
+Encoding: 119623 119623 119623
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D348
+Encoding: 119624 119624 119624
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D349
+Encoding: 119625 119625 119625
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34A
+Encoding: 119626 119626 119626
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34B
+Encoding: 119627 119627 119627
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34C
+Encoding: 119628 119628 119628
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34D
+Encoding: 119629 119629 119629
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 9867 9867 N 1 0 0 1 0 768 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34E
+Encoding: 119630 119630 119630
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D34F
+Encoding: 119631 119631 119631
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D350
+Encoding: 119632 119632 119632
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D351
+Encoding: 119633 119633 119633
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D352
+Encoding: 119634 119634 119634
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D353
+Encoding: 119635 119635 119635
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 384 2
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D354
+Encoding: 119636 119636 119636
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9866 9866 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D355
+Encoding: 119637 119637 119637
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 9867 9867 N 1 0 0 1 0 0 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
+EndChar
+StartChar: u1D356
+Encoding: 119638 119638 119638
+Width: 1836
+Flags: W
+TeX: 0 0 0 0
+Refer: 119552 119552 N 1 0 0 1 0 -480 2
+Refer: 119552 119552 N 1 0 0 1 0 -96 2
+Refer: 119552 119552 N 1 0 0 1 0 288 2
+Refer: 119552 119552 N 1 0 0 1 0 672 2
 EndChar
 StartChar: dlLtcaron
 Encoding: 1114113 -1 1114113
