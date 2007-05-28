@@ -32564,7 +32564,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 217 1526 m 1,0,-1
  815 1526 l 1,1,-1
@@ -32579,7 +32578,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 958 1638 m 1,0,-1
  796 1314 l 2,1,2
@@ -32606,7 +32604,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 420 1552 m 1,0,-1
  624 1552 l 1,1,-1
@@ -32621,7 +32618,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 436 1638 m 1,0,-1
  584 1638 l 1,1,-1
@@ -32639,7 +32635,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 933 1262 m 1,0,-1
  91 1262 l 1,1,-1
@@ -32657,7 +32652,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 66 1638 m 1,0,-1
  205 1638 l 1,1,-1
@@ -32684,7 +32678,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 91 1262 m 1,0,-1
  91 1410 l 1,1,-1
@@ -32702,7 +32695,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-below" 512 -1 mark 0
-AnchorPoint: "Ligature rtl-below" 512 -1 mark 0
 Fore
 410 -173 m 1,0,-1
  614 -173 l 1,1,-1
@@ -32717,7 +32709,6 @@ Width: 0
 Flags: W
 TeX: 0 0 0 0
 AnchorPoint: "rtl-above" 512 1147 mark 0
-AnchorPoint: "Ligature rtl-above" 512 1147 mark 0
 Fore
 604 1552 m 1,0,-1
  807 1552 l 1,1,-1
