@@ -31161,9 +31161,25 @@ Substitution2: "'fina' Terminal forms in N'Ko" uni07DB.fina
 EndChar
 StartChar: uni07DC
 Encoding: 2012 2012 2012
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 1237 m 25,0,-1
+ 456 1237 l 25,1,-1
+ 668 424 l 1,2,-1
+ 879 1237 l 25,0,-1
+1305 1493 m 17,3,-1
+ 864 0 l 1,4,-1
+ 471 0 l 1,5,-1
+ 31 1493 l 9,6,-1
+ 1305 1493 l 17,3,-1
+EndSplineSet
+Substitution2: "'fina' Terminal forms in N'Ko" uni07DC.fina
+Substitution2: "'medi' Medial forms in N'Ko" uni07DC.medi
+Substitution2: "'init' Initial forms in N'Ko" uni07DC.init
 EndChar
 StartChar: uni07DD
 Encoding: 2013 2013 2013
@@ -31211,9 +31227,25 @@ Colour: ffff00
 EndChar
 StartChar: uni07E1
 Encoding: 2017 2017 2017
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 256 m 25,0,-1
+ 668 1069 l 1,1,-1
+ 456 256 l 25,2,-1
+ 879 256 l 25,0,-1
+1305 0 m 9,3,-1
+ 31 0 l 17,4,-1
+ 471 1493 l 1,5,-1
+ 864 1493 l 1,6,-1
+ 1305 0 l 9,3,-1
+EndSplineSet
+Substitution2: "'fina' Terminal forms in N'Ko" uni07E1.fina
+Substitution2: "'medi' Medial forms in N'Ko" uni07E1.medi
+Substitution2: "'init' Initial forms in N'Ko" uni07E1.init
 EndChar
 StartChar: uni07E2
 Encoding: 2018 2018 2018
@@ -97245,23 +97277,70 @@ Fore
  -20 0 l 25,4,-1
 EndSplineSet
 EndChar
-StartChar: uniE036
+StartChar: uni07DC.fina
 Encoding: 57398 57398 57398
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 1237 m 25,0,-1
+ 456 1237 l 25,1,-1
+ 668 424 l 1,2,-1
+ 879 1237 l 25,0,-1
+471 0 m 17,3,-1
+ 31 1493 l 9,4,-1
+ 1305 1493 l 17,5,-1
+ 940 256 l 25,6,-1
+ 1355 256 l 25,7,-1
+ 1355 0 l 25,8,-1
+ 471 0 l 17,3,-1
+EndSplineSet
 EndChar
-StartChar: uniE037
+StartChar: uni07DC.medi
 Encoding: 57399 57399 57399
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 1237 m 25,0,-1
+ 456 1237 l 25,1,-1
+ 668 424 l 1,2,-1
+ 879 1237 l 25,0,-1
+-20 0 m 25,3,-1
+ -20 256 l 17,4,-1
+ 396 256 l 25,5,-1
+ 31 1493 l 9,6,-1
+ 1305 1493 l 17,7,-1
+ 940 256 l 25,8,-1
+ 1355 256 l 25,9,-1
+ 1355 0 l 25,10,-1
+ -20 0 l 25,3,-1
+EndSplineSet
 EndChar
-StartChar: uniE038
+StartChar: uni07DC.init
 Encoding: 57400 57400 57400
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 1237 m 25,0,-1
+ 456 1237 l 25,1,-1
+ 668 424 l 1,2,-1
+ 879 1237 l 25,0,-1
+-20 0 m 25,3,-1
+ -20 256 l 17,4,-1
+ 396 256 l 25,5,-1
+ 31 1493 l 9,6,-1
+ 1305 1493 l 17,7,-1
+ 864 0 l 9,8,-1
+ -20 0 l 25,3,-1
+EndSplineSet
 EndChar
 StartChar: uniE039
 Encoding: 57401 57401 57401
@@ -97394,23 +97473,70 @@ Width: 2048
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
-StartChar: uniE045
+StartChar: uni07E1.fina
 Encoding: 57413 57413 57413
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 256 m 25,0,-1
+ 668 1069 l 1,1,-1
+ 456 256 l 25,2,-1
+ 879 256 l 25,0,-1
+31 0 m 17,3,-1
+ 471 1493 l 1,4,-1
+ 864 1493 l 1,5,-1
+ 1229 256 l 25,6,-1
+ 1355 256 l 25,7,-1
+ 1355 0 l 25,8,-1
+ 31 0 l 17,3,-1
+EndSplineSet
 EndChar
-StartChar: uniE046
+StartChar: uni07E1.medi
 Encoding: 57414 57414 57414
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 256 m 25,0,-1
+ 668 1069 l 1,1,-1
+ 456 256 l 25,2,-1
+ 879 256 l 25,0,-1
+-20 0 m 25,3,-1
+ -20 256 l 17,4,-1
+ 106 256 l 25,5,-1
+ 471 1493 l 1,6,-1
+ 864 1493 l 1,7,-1
+ 1229 256 l 25,8,-1
+ 1355 256 l 25,9,-1
+ 1355 0 l 25,10,-1
+ -20 0 l 25,3,-1
+EndSplineSet
 EndChar
-StartChar: uniE047
+StartChar: uni07E1.init
 Encoding: 57415 57415 57415
-Width: 2048
+Width: 1335
+Flags: W
 TeX: 0 0 0 0
-Colour: ff0000
+AnchorPoint: "rtl-below" 668 0 basechar 0
+AnchorPoint: "rtl-above" 668 1520 basechar 0
+Fore
+879 256 m 25,0,-1
+ 668 1069 l 1,1,-1
+ 456 256 l 25,2,-1
+ 879 256 l 25,0,-1
+-20 0 m 25,3,-1
+ -20 256 l 17,4,-1
+ 106 256 l 25,5,-1
+ 471 1493 l 1,6,-1
+ 864 1493 l 1,7,-1
+ 1305 0 l 9,8,-1
+ -20 0 l 25,3,-1
+EndSplineSet
 EndChar
 StartChar: uniE048
 Encoding: 57416 57416 57416
