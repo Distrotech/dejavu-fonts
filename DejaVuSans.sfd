@@ -32864,9 +32864,26 @@ EndSplineSet
 EndChar
 StartChar: uni07F9
 Encoding: 2041 2041 2041
-Width: 2048
+Width: 1147
+Flags: W
 TeX: 0 0 0 0
-Colour: ffff00
+Fore
+471 644 m 1,0,-1
+ 675 644 l 1,1,-1
+ 675 440 l 1,2,-1
+ 471 440 l 1,3,-1
+ 471 644 l 1,0,-1
+471 204 m 1,0,-1
+ 675 204 l 1,1,-1
+ 675 0 l 1,2,-1
+ 471 0 l 1,3,-1
+ 471 204 l 1,0,-1
+100 990 m 1,4,-1
+ 1047 990 l 1,5,-1
+ 1047 844 l 1,6,-1
+ 100 844 l 1,7,-1
+ 100 990 l 1,4,-1
+EndSplineSet
 EndChar
 StartChar: uni07FA
 Encoding: 2042 2042 2042
