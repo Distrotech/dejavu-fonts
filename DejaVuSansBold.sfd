@@ -97101,60 +97101,6 @@ Fore
  367 1241 l 1,0,-1
 EndSplineSet
 EndChar
-StartChar: .notdef
-Encoding: 57434 -1 57434
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57435 -1 57435
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57436 -1 57436
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57437 -1 57437
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57438 -1 57438
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57439 -1 57439
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57440 -1 57440
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57441 -1 57441
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
-StartChar: .notdef
-Encoding: 57442 -1 57442
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
 StartChar: uniF208
 Encoding: 61960 61960 61960
 Width: 1762
@@ -105828,7 +105774,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 9" uni064F uni0654
 LCarets2: 1 0 
 EndChar
 StartChar: uni07CA.fina
-Encoding: 1114217 57344 1114217
+Encoding: 1114217 -1 1114217
 Width: 702
 Flags: W
 TeX: 0 0 0 0
@@ -105845,7 +105791,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CA.medi
-Encoding: 1114218 57345 1114218
+Encoding: 1114218 -1 1114218
 Width: 702
 Flags: W
 TeX: 0 0 0 0
@@ -105864,7 +105810,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CA.init
-Encoding: 1114219 57346 1114219
+Encoding: 1114219 -1 1114219
 Width: 702
 Flags: W
 TeX: 0 0 0 0
@@ -105881,7 +105827,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CB.fina
-Encoding: 1114220 57347 1114220
+Encoding: 1114220 -1 1114220
 Width: 1120
 Flags: W
 TeX: 0 0 0 0
@@ -105912,7 +105858,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CB.medi
-Encoding: 1114221 57348 1114221
+Encoding: 1114221 -1 1114221
 Width: 1120
 Flags: W
 TeX: 0 0 0 0
@@ -105946,7 +105892,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CB.init
-Encoding: 1114222 57349 1114222
+Encoding: 1114222 -1 1114222
 Width: 1120
 Flags: W
 TeX: 0 0 0 0
@@ -105977,7 +105923,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CC.fina
-Encoding: 1114223 57350 1114223
+Encoding: 1114223 -1 1114223
 Width: 1113
 Flags: W
 TeX: 0 0 0 0
@@ -105999,7 +105945,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CC.medi
-Encoding: 1114224 57351 1114224
+Encoding: 1114224 -1 1114224
 Width: 1113
 Flags: W
 TeX: 0 0 0 0
@@ -106023,7 +105969,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CC.init
-Encoding: 1114225 57352 1114225
+Encoding: 1114225 -1 1114225
 Width: 1113
 Flags: W
 TeX: 0 0 0 0
@@ -106045,7 +105991,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CD.fina
-Encoding: 1114226 57353 1114226
+Encoding: 1114226 -1 1114226
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -106065,7 +106011,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CD.medi
-Encoding: 1114227 57354 1114227
+Encoding: 1114227 -1 1114227
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -106087,7 +106033,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CD.init
-Encoding: 1114228 57355 1114228
+Encoding: 1114228 -1 1114228
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -106107,7 +106053,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CE.fina
-Encoding: 1114229 57356 1114229
+Encoding: 1114229 -1 1114229
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106128,7 +106074,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CE.medi
-Encoding: 1114230 57357 1114230
+Encoding: 1114230 -1 1114230
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106151,7 +106097,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CE.init
-Encoding: 1114231 57358 1114231
+Encoding: 1114231 -1 1114231
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106172,7 +106118,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CF.fina
-Encoding: 1114232 57359 1114232
+Encoding: 1114232 -1 1114232
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106193,7 +106139,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CF.medi
-Encoding: 1114233 57360 1114233
+Encoding: 1114233 -1 1114233
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106214,7 +106160,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07CF.init
-Encoding: 1114234 57361 1114234
+Encoding: 1114234 -1 1114234
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106233,7 +106179,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D0.fina
-Encoding: 1114235 57362 1114235
+Encoding: 1114235 -1 1114235
 Width: 1216
 Flags: W
 TeX: 0 0 0 0
@@ -106274,7 +106220,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D0.medi
-Encoding: 1114236 57363 1114236
+Encoding: 1114236 -1 1114236
 Width: 1216
 Flags: W
 TeX: 0 0 0 0
@@ -106317,7 +106263,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D0.init
-Encoding: 1114237 57364 1114237
+Encoding: 1114237 -1 1114237
 Width: 1216
 Flags: W
 TeX: 0 0 0 0
@@ -106358,7 +106304,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D1.fina
-Encoding: 1114238 57365 1114238
+Encoding: 1114238 -1 1114238
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106380,7 +106326,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D1.medi
-Encoding: 1114239 57366 1114239
+Encoding: 1114239 -1 1114239
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106402,7 +106348,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D1.init
-Encoding: 1114240 57367 1114240
+Encoding: 1114240 -1 1114240
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -106424,7 +106370,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D2.fina
-Encoding: 1114241 57368 1114241
+Encoding: 1114241 -1 1114241
 Width: 1852
 Flags: W
 TeX: 0 0 0 0
@@ -106462,7 +106408,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D2.medi
-Encoding: 1114242 57369 1114242
+Encoding: 1114242 -1 1114242
 Width: 1852
 Flags: W
 TeX: 0 0 0 0
@@ -106502,7 +106448,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D2.init
-Encoding: 1114243 57370 1114243
+Encoding: 1114243 -1 1114243
 Width: 1852
 Flags: W
 TeX: 0 0 0 0
@@ -106540,7 +106486,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D3.fina
-Encoding: 1114244 57371 1114244
+Encoding: 1114244 -1 1114244
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106563,7 +106509,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D3.medi
-Encoding: 1114245 57372 1114245
+Encoding: 1114245 -1 1114245
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106588,7 +106534,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D3.init
-Encoding: 1114246 57373 1114246
+Encoding: 1114246 -1 1114246
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106611,7 +106557,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D4.fina
-Encoding: 1114247 57374 1114247
+Encoding: 1114247 -1 1114247
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106634,7 +106580,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D4.medi
-Encoding: 1114248 57375 1114248
+Encoding: 1114248 -1 1114248
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106660,7 +106606,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D4.init
-Encoding: 1114249 57376 1114249
+Encoding: 1114249 -1 1114249
 Width: 1129
 Flags: W
 TeX: 0 0 0 0
@@ -106683,7 +106629,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D5.fina
-Encoding: 1114250 57377 1114250
+Encoding: 1114250 -1 1114250
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -106712,7 +106658,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D5.medi
-Encoding: 1114251 57378 1114251
+Encoding: 1114251 -1 1114251
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -106743,7 +106689,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D5.init
-Encoding: 1114252 57379 1114252
+Encoding: 1114252 -1 1114252
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -106773,7 +106719,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D6.fina
-Encoding: 1114253 57380 1114253
+Encoding: 1114253 -1 1114253
 Width: 1408
 Flags: W
 TeX: 0 0 0 0
@@ -106798,7 +106744,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D6.medi
-Encoding: 1114254 57381 1114254
+Encoding: 1114254 -1 1114254
 Width: 1408
 Flags: W
 TeX: 0 0 0 0
@@ -106824,7 +106770,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D6.init
-Encoding: 1114255 57382 1114255
+Encoding: 1114255 -1 1114255
 Width: 1408
 Flags: W
 TeX: 0 0 0 0
@@ -106848,7 +106794,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D7.fina
-Encoding: 1114256 57383 1114256
+Encoding: 1114256 -1 1114256
 Width: 909
 Flags: W
 TeX: 0 0 0 0
@@ -106868,7 +106814,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D7.medi
-Encoding: 1114257 57384 1114257
+Encoding: 1114257 -1 1114257
 Width: 909
 Flags: W
 TeX: 0 0 0 0
@@ -106890,7 +106836,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D7.init
-Encoding: 1114258 57385 1114258
+Encoding: 1114258 -1 1114258
 Width: 909
 Flags: W
 TeX: 0 0 0 0
@@ -106910,7 +106856,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D8.fina
-Encoding: 1114259 57386 1114259
+Encoding: 1114259 -1 1114259
 Width: 2094
 Flags: W
 TeX: 0 0 0 0
@@ -106950,7 +106896,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D8.medi
-Encoding: 1114260 57387 1114260
+Encoding: 1114260 -1 1114260
 Width: 2094
 Flags: W
 TeX: 0 0 0 0
@@ -106992,7 +106938,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D8.init
-Encoding: 1114261 57388 1114261
+Encoding: 1114261 -1 1114261
 Width: 2094
 Flags: W
 TeX: 0 0 0 0
@@ -107032,7 +106978,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D9.fina
-Encoding: 1114262 57389 1114262
+Encoding: 1114262 -1 1114262
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107057,7 +107003,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D9.medi
-Encoding: 1114263 57390 1114263
+Encoding: 1114263 -1 1114263
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107084,7 +107030,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07D9.init
-Encoding: 1114264 57391 1114264
+Encoding: 1114264 -1 1114264
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107109,7 +107055,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DA.fina
-Encoding: 1114265 57392 1114265
+Encoding: 1114265 -1 1114265
 Width: 1692
 Flags: W
 TeX: 0 0 0 0
@@ -107143,7 +107089,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DA.medi
-Encoding: 1114266 57393 1114266
+Encoding: 1114266 -1 1114266
 Width: 1692
 Flags: W
 TeX: 0 0 0 0
@@ -107179,7 +107125,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DA.init
-Encoding: 1114267 57394 1114267
+Encoding: 1114267 -1 1114267
 Width: 1692
 Flags: W
 TeX: 0 0 0 0
@@ -107213,7 +107159,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DB.fina
-Encoding: 1114268 57395 1114268
+Encoding: 1114268 -1 1114268
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -107235,7 +107181,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DB.medi
-Encoding: 1114269 57396 1114269
+Encoding: 1114269 -1 1114269
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -107259,7 +107205,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DB.init
-Encoding: 1114270 57397 1114270
+Encoding: 1114270 -1 1114270
 Width: 1415
 Flags: W
 TeX: 0 0 0 0
@@ -107281,7 +107227,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DC.fina
-Encoding: 1114271 57398 1114271
+Encoding: 1114271 -1 1114271
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107302,7 +107248,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DC.medi
-Encoding: 1114272 57399 1114272
+Encoding: 1114272 -1 1114272
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107325,7 +107271,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DC.init
-Encoding: 1114273 57400 1114273
+Encoding: 1114273 -1 1114273
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107346,7 +107292,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DD.fina
-Encoding: 1114274 57401 1114274
+Encoding: 1114274 -1 1114274
 Width: 1868
 Flags: W
 TeX: 0 0 0 0
@@ -107383,7 +107329,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DD.medi
-Encoding: 1114275 57402 1114275
+Encoding: 1114275 -1 1114275
 Width: 1868
 Flags: W
 TeX: 0 0 0 0
@@ -107422,7 +107368,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DD.init
-Encoding: 1114276 57403 1114276
+Encoding: 1114276 -1 1114276
 Width: 1868
 Flags: W
 TeX: 0 0 0 0
@@ -107459,7 +107405,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DE.fina
-Encoding: 1114277 57404 1114277
+Encoding: 1114277 -1 1114277
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107484,7 +107430,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DE.medi
-Encoding: 1114278 57405 1114278
+Encoding: 1114278 -1 1114278
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107511,7 +107457,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DE.init
-Encoding: 1114279 57406 1114279
+Encoding: 1114279 -1 1114279
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107536,7 +107482,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DF.fina
-Encoding: 1114280 57407 1114280
+Encoding: 1114280 -1 1114280
 Width: 1448
 Flags: W
 TeX: 0 0 0 0
@@ -107570,7 +107516,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DF.medi
-Encoding: 1114281 57408 1114281
+Encoding: 1114281 -1 1114281
 Width: 1448
 Flags: W
 TeX: 0 0 0 0
@@ -107606,7 +107552,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07DF.init
-Encoding: 1114282 57409 1114282
+Encoding: 1114282 -1 1114282
 Width: 1448
 Flags: W
 TeX: 0 0 0 0
@@ -107640,7 +107586,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E0.fina
-Encoding: 1114283 57410 1114283
+Encoding: 1114283 -1 1114283
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107661,7 +107607,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E0.medi
-Encoding: 1114284 57411 1114284
+Encoding: 1114284 -1 1114284
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107684,7 +107630,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E0.init
-Encoding: 1114285 57412 1114285
+Encoding: 1114285 -1 1114285
 Width: 1037
 Flags: W
 TeX: 0 0 0 0
@@ -107705,7 +107651,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E1.fina
-Encoding: 1114286 57413 1114286
+Encoding: 1114286 -1 1114286
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107726,7 +107672,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E1.medi
-Encoding: 1114287 57414 1114287
+Encoding: 1114287 -1 1114287
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107749,7 +107695,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E1.init
-Encoding: 1114288 57415 1114288
+Encoding: 1114288 -1 1114288
 Width: 1335
 Flags: W
 TeX: 0 0 0 0
@@ -107770,7 +107716,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E2.fina
-Encoding: 1114289 57416 1114289
+Encoding: 1114289 -1 1114289
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -107816,7 +107762,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E2.medi
-Encoding: 1114290 57417 1114290
+Encoding: 1114290 -1 1114290
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -107864,7 +107810,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E2.init
-Encoding: 1114291 57418 1114291
+Encoding: 1114291 -1 1114291
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -107910,7 +107856,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E3.fina
-Encoding: 1114292 57419 1114292
+Encoding: 1114292 -1 1114292
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107931,7 +107877,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E3.medi
-Encoding: 1114293 57420 1114293
+Encoding: 1114293 -1 1114293
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107954,7 +107900,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E3.init
-Encoding: 1114294 57421 1114294
+Encoding: 1114294 -1 1114294
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107975,7 +107921,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E4.fina
-Encoding: 1114295 57422 1114295
+Encoding: 1114295 -1 1114295
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -107998,7 +107944,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E4.medi
-Encoding: 1114296 57423 1114296
+Encoding: 1114296 -1 1114296
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -108023,7 +107969,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E4.init
-Encoding: 1114297 57424 1114297
+Encoding: 1114297 -1 1114297
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -108046,7 +107992,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E5.fina
-Encoding: 1114298 57425 1114298
+Encoding: 1114298 -1 1114298
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -108072,7 +108018,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E5.medi
-Encoding: 1114299 57426 1114299
+Encoding: 1114299 -1 1114299
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -108100,7 +108046,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E5.init
-Encoding: 1114300 57427 1114300
+Encoding: 1114300 -1 1114300
 Width: 1284
 Flags: W
 TeX: 0 0 0 0
@@ -108126,7 +108072,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E6.fina
-Encoding: 1114301 57428 1114301
+Encoding: 1114301 -1 1114301
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108170,7 +108116,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E6.medi
-Encoding: 1114302 57429 1114302
+Encoding: 1114302 -1 1114302
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108216,7 +108162,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E6.init
-Encoding: 1114303 57430 1114303
+Encoding: 1114303 -1 1114303
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108260,7 +108206,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E7.fina
-Encoding: 1114304 57431 1114304
+Encoding: 1114304 -1 1114304
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108308,7 +108254,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E7.medi
-Encoding: 1114305 57432 1114305
+Encoding: 1114305 -1 1114305
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108358,7 +108304,7 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E7.init
-Encoding: 1114306 57433 1114306
+Encoding: 1114306 -1 1114306
 Width: 1176
 Flags: W
 TeX: 0 0 0 0
@@ -108406,63 +108352,63 @@ Fore
 EndSplineSet
 EndChar
 StartChar: uni07E8.fina
-Encoding: 1114307 57434 1114307
+Encoding: 1114307 -1 1114307
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07E8.medi
-Encoding: 1114308 57435 1114308
+Encoding: 1114308 -1 1114308
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07E8.init
-Encoding: 1114309 57436 1114309
+Encoding: 1114309 -1 1114309
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07E9.fina
-Encoding: 1114310 57437 1114310
+Encoding: 1114310 -1 1114310
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07E9.medi
-Encoding: 1114311 57438 1114311
+Encoding: 1114311 -1 1114311
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07E9.init
-Encoding: 1114312 57439 1114312
+Encoding: 1114312 -1 1114312
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07EA.fina
-Encoding: 1114313 57440 1114313
+Encoding: 1114313 -1 1114313
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07EA.medi
-Encoding: 1114314 57441 1114314
+Encoding: 1114314 -1 1114314
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
 StartChar: uni07EA.init
-Encoding: 1114315 57442 1114315
+Encoding: 1114315 -1 1114315
 Width: 2048
 Flags: W
 TeX: 0 0 0 0
