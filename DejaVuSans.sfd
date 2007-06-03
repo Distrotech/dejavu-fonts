@@ -101591,12 +101591,6 @@ Width: 2048
 TeX: 0 0 0 0
 Colour: ff0000
 EndChar
-StartChar: uniE063
-Encoding: 57443 57443 57443
-Width: 2048
-TeX: 0 0 0 0
-Colour: ff0000
-EndChar
 StartChar: uniF000
 Encoding: 61440 61440 61440
 Width: 2000
