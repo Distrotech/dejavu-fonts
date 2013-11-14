@@ -300,3 +300,8 @@ condensed: $(NORMSFD)
 	cp $(TMPDIR)/DejaVuSerif-Bold.sfd.norm.narrow.norm $(TMPDIR)/DejaVuSerifCondensed-Bold.sfd.norm
 	cp $(TMPDIR)/DejaVuSerif-Italic.sfd.norm.narrow.norm $(TMPDIR)/DejaVuSerifCondensed-Italic.sfd.norm
 	cp $(TMPDIR)/DejaVuSerif-BoldItalic.sfd.norm.narrow.norm $(TMPDIR)/DejaVuSerifCondensed-BoldItalic.sfd.norm
+
+
+install: all
+	mkdir -p ${DESTDIR}/usr/share/fonts/truetype/ttf-dejavu/ || true
+	cp build/*.ttf ${DESTDIR}/usr/share/fonts/truetype/ttf-dejavu/
